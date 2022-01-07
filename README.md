@@ -56,7 +56,7 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/harsh-kashyap-79b87b193/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
-  
+<br/> 
 
 
 
@@ -72,10 +72,10 @@
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Kashyap-Harsh&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-
+<br/>
 
 ### Certificates  
-[Click here](https://www.linkedin.com/in/harsh-kashyap-79b87b193/)  
+[Click here](https://drive.google.com/drive/folders/1raz8Z0f7Db-AncWtucGtYBlHlOIIiFNk)  
   
 
 <br/>  
@@ -94,8 +94,6 @@
 <br/>  
 
   
-
-<br/>  
 
 
 
