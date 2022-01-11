@@ -6,7 +6,7 @@
 ## <div align="center">I'm Harsh Kashyap, a CSE student from Thapar 👨‍💻 and I am an ML enthusiast with a knack for coding. 🚀</div>  
   
 
-- ###### I am in third year and I have keenly worked on all around personality development throughout.😎  
+- ###### I am in third year and I have keenly worked on all around personality development.😎  
   
 
 - ###### 🌱 I’m currently learning Machine Learning  
