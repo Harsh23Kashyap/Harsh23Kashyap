@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 30%" />
 </div>  
   
 ## <div align="center">I'm Harsh Kashyap, a CSE student from Thapar 👨‍💻 and I am an ML enthusiast with a knack for coding. 🚀</div>  
