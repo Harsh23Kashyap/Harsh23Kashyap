@@ -1,6 +1,8 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 30%" />
+<img src="https://github.com/Kashyap-Harsh/Kashyap-Harsh/blob/master/Harsh%20Kashyap.giff" align="center" style="width: 80%" />
 </div>  
+  
   
 ## <div align="center">I'm Harsh Kashyap, a CSE student from Thapar 👨‍💻 and I am an ML enthusiast with a knack for coding. 🚀</div>  
   
@@ -51,8 +53,7 @@
 
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
-<br/>
-### Connect with me  
+<br/>  
 <a href="https://twitter.com/IamHarshKashyap" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
