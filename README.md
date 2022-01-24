@@ -1,9 +1,9 @@
 <div align="center">
-<img src="https://github.com/Kashyap-Harsh/Kashyap-Harsh/blob/master/Harsh%20Kashyap.gif" align="center" style="width: 80%" />
+<img src="https://github.com/Kashyap-Harsh/Kashyap-Harsh/blob/master/Harsh%20Kashyap.gif" align="center" style="width: 100%" />
 </div>  
   
   
-## <div align="center">I'm Harsh Kashyap, a CSE student from Thapar 👨‍💻 and I am an ML enthusiast with a knack for coding. 🚀</div>  
+## <div align="center">I'm a third-year CSE student from Thapar 👨‍💻 and I am an ML enthusiast with a knack for coding. 🚀</div>  
   
 
 - ###### I am in third year and I have keenly worked on all around personality development.😎  
