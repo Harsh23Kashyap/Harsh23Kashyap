@@ -52,7 +52,7 @@
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
 <br/>
-## Connect with me  
+### Connect with me  
 <a href="https://twitter.com/IamHarshKashyap" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
@@ -123,12 +123,12 @@ Secondary | March 2005 - May 2017 | ICSE | Percentage - 94.33%
 
 ### Hobbies  
 * Cricket🏏🏏   
-*Dancing🕺🕺   
-*Reading📕📗  
-*Travelling🚅✈️  
-*Cooking🧑‍🍳🥘  
-*Working Out 💪🚲  
-*Exploring Activities🎋🎉    
+* Dancing🕺🕺   
+* Reading📕📗  
+* Travelling🚅✈️  
+* Cooking🧑‍🍳🥘  
+* Working Out 💪🚲  
+* Exploring Activities🎋🎉    
 
 <br />
 
