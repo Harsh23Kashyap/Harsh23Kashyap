@@ -132,6 +132,8 @@ Secondary | March 2005 - May 2017 | ICSE | Percentage - 94.33%
 
 <br />
 
-![Visitor Count](https://profile-counter.glitch.me/Kashyap-Harsh/count.svg)
-
+<p align="center"> 
+  <b>Visitors</b> :<br>
+  <img src="https://profile-counter.glitch.me/Kashyap-Harsh/count.svg" />
+</p>
 ----
