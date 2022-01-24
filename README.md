@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 30%" />
-<img src="https://github.com/Kashyap-Harsh/Kashyap-Harsh/blob/master/Harsh%20Kashyap.giff" align="center" style="width: 80%" />
+<img src="https://github.com/Kashyap-Harsh/Kashyap-Harsh/blob/master/Harsh%20Kashyap.gif" align="center" style="width: 80%" />
 </div>  
   
   
