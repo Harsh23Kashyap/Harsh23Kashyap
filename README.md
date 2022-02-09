@@ -73,7 +73,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Kashyap-Harsh&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Harsh23Kashyap&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>
 
