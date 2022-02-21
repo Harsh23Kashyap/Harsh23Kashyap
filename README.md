@@ -79,11 +79,6 @@
 
  
 
-<br/>
-## Certificates  
-[Click here](https://drive.google.com/drive/folders/1raz8Z0f7Db-AncWtucGtYBlHlOIIiFNk)  
-  
-  
 
 <br/> 
 ## Github Stats  
