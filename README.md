@@ -81,11 +81,13 @@
 
 
 <br/> 
-<h1>Github Stats  </h1>
+<h2>Github Stats  </h2>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Harsh23Kashyap&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>
 <h3> My Activity </h3>
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Harsh23Kashyap)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ![Harsh's Activity Graph](https://activity-graph.herokuapp.com/graph?username=Harsh23Kashyap&theme=react-dark&area=true)
 
 
