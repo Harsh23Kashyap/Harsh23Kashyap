@@ -81,7 +81,7 @@
 
 
 <br/> 
-## Github Stats  
+<h1> Github Stats  </h1>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Harsh23Kashyap&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>
