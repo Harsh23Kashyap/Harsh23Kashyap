@@ -6,11 +6,12 @@
 ## <div align="center">I'm a third-year CSE student from Thapar 👨‍💻 and I am an ML enthusiast with a knack for coding. 🚀</div>  
   
 
-- ###### I am in third year and I have keenly worked on all around personality development.😎  
+- ###### I am in Junior undergrad at Thapar and I am a passionate learner.😎  
   
 
 - ###### 🌱 I’m currently learning Machine Learning and Flutter 
   
+- ###### ✨ I love to explore new technologies and leverage them to solve real-life problems.
 
 - ###### ⚡ Fun fact: I use keyboard over mouse.  
   
@@ -82,7 +83,7 @@
 
 <br/>
 
-### Certificates  
+## Certificates  
 [Click here](https://drive.google.com/drive/folders/1raz8Z0f7Db-AncWtucGtYBlHlOIIiFNk)  
   
   
@@ -91,7 +92,7 @@
 
 
 
-### My song of the day  
+## My song of the day  
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31ctrssm2pihpm6r6fjtp4znfmha&cover_image=true&theme=default" /></div>  
 
 <br/>  
@@ -100,7 +101,7 @@
 
 
 
-### Non Profit Organisations   
+## Non Profit Organisations   
 * [TICC (Thapar Institute Counselling Cell)](https://www.instagram.com/ticc.official/?hl=en)
   - Vice Lead Ambassador
 
@@ -111,7 +112,7 @@
 
 
 
-### Education  
+## Education  
 * Thapar Institute of Engineering and Technology
 Bachelor of Technology | August 2019 - May 2023 | Computer Science and Engineering | CGPA - 9.95
 * Mount Assisi School
@@ -124,7 +125,7 @@ Secondary | March 2005 - May 2017 | ICSE | Percentage - 94.33%
 
 
 
-### Hobbies  
+## Hobbies  
 * Cricket🏏🏏   
 * Dancing🕺🕺   
 * Reading📕📗  
