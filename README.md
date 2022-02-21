@@ -81,18 +81,23 @@
 
 
 <br/> 
-<h1> Github Stats  </h1>
+<h1>Github Stats  </h1>
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Harsh23Kashyap&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>
-## My Activity 
+<h3> My Activity </h3>
 ![Harsh's Activity Graph](https://activity-graph.herokuapp.com/graph?username=Harsh23Kashyap&theme=react-dark&area=true)
 
 
 
 <br/>  
+<h2>Certificates</h2>
+[View here](https://drive.google.com/drive/u/2/folders/1raz8Z0f7Db-AncWtucGtYBlHlOIIiFNk)
+
+<h2>
 
 
+<br/>
 
 ## My song of the day  
 <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31ctrssm2pihpm6r6fjtp4znfmha&cover_image=true&theme=default" /></div>  
