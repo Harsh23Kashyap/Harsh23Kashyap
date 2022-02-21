@@ -86,8 +86,7 @@
 
 <br/>
 <h3> My Activity </h3>
-![Harsh's Activity Graph](https://activity-graph.herokuapp.com/graph?username=Harsh23Kashyap&theme=react-dark&area=true)
-
+[![Harsh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Harsh23Kashyap)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <br/>  
