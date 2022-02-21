@@ -71,7 +71,7 @@
 [Machine Learning](https://github.com/Harsh23Kashyap/Machine-Learning) 👀  
 [Thunder Food Delivery](https://infinite-falls-12776.herokuapp.com/) 🤏   
 [Data Visualisation](https://github.com/Harsh23Kashyap/Data-Visualisation) 🤟<br/>
-[Stock Market Predictor](https://github.com/Harsh23Kashyap/Stock-Market-Predictor) 😏
+[Stock Market Predictor](https://github.com/Harsh23Kashyap/Stock-Market-Predictor) 😏<br/>
 [Shopping App Catalog](https://github.com/Harsh23Kashyap/ShoppingApp) ✨
 
   
@@ -84,7 +84,12 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Harsh23Kashyap&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>
+## My Activity 
+[![Harsh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Harsh23Kashyap)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+
+
+<br/>
 ## Certificates  
 [Click here](https://drive.google.com/drive/folders/1raz8Z0f7Db-AncWtucGtYBlHlOIIiFNk)  
   
