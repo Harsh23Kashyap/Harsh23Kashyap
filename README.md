@@ -68,11 +68,13 @@
 
 
 ## Projects  
-[Machine Learning](https://github.com/Kashyap-Harsh/Machine-Learning)👀  
-[Thunder Food Delivery](https://infinite-falls-12776.herokuapp.com/)🤏   
-[Data Visualisation](https://github.com/Kashyap-Harsh/Data-Visualisation)🤟<br/>
-[Stock Market Predictor](https://github.com/Kashyap-Harsh/Stock-Market-Predictor)😏
+[Machine Learning](https://github.com/Harsh23Kashyap/Machine-Learning) 👀  
+[Thunder Food Delivery](https://infinite-falls-12776.herokuapp.com/) 🤏   
+[Data Visualisation](https://github.com/Harsh23Kashyap/Data-Visualisation) 🤟<br/>
+[Stock Market Predictor](https://github.com/Harsh23Kashyap/Stock-Market-Predictor) 😏
+[Shopping App Catalog](https://github.com/Harsh23Kashyap/ShoppingApp) ✨
 
+  
   
 
 <br/>  
