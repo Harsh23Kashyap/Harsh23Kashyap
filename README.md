@@ -85,7 +85,7 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Harsh23Kashyap&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>
-<h3> My Activity </h3> <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
+<h3> My Activity <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50"></h3> 
 
 
 ![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Harsh23Kashyap&theme=github&area=true&custom_title=Harsh's%20Activity&hide_border=true)
