@@ -77,7 +77,7 @@ SDE Intern | July 2021 - September 2021
 ## Projects  
 [Machine Learning](https://github.com/Harsh23Kashyap/Machine-Learning) 👀  
 [Thunder Food Delivery](https://infinite-falls-12776.herokuapp.com/) 🤏   
-[Data Visualisation](https://github.com/Harsh23Kashyap/Data-Visualisation) 🤟<br/>
+[Data Visualisation](https://github.com/Harsh23Kashyap/Placement-Record-Visualiser) 🤟<br/>
 [Stock Market Predictor](https://github.com/Harsh23Kashyap/Stock-Market-Predictor) 😏<br/>
 [Shopping App Catalog](https://github.com/Harsh23Kashyap/ShoppingApp) ✨
  
@@ -95,7 +95,7 @@ SDE Intern | July 2021 - September 2021
 
 
 <br/>  
-<h2>Certificates</h2>
+<h2>Certificates and Resume</h2>
 
 [View here](https://drive.google.com/drive/u/2/folders/1raz8Z0f7Db-AncWtucGtYBlHlOIIiFNk)
 
