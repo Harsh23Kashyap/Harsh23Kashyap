@@ -3,10 +3,10 @@
 </div>  
   
   
-## <div align="center">I'm a third-year CSE student from Thapar 👨‍💻 and I am an ML enthusiast with a knack for coding. 🚀</div>  
+## <div align="center">I'm a CSE student from Thapar 👨‍💻 with a knack for coding. 🚀</div>  
   
 
-- ###### I am in Junior undergrad at Thapar and I am a passionate learner.😎  
+- ###### I am in Final year undergrad at Thapar and I am a passionate learner.😎  
   
 
 - ###### 🌱 I’m currently learning Machine Learning and Flutter 
