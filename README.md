@@ -65,14 +65,20 @@
 </a>  
 <br/> 
 
+## View my Leetcode
+<a href="https://twitter.com/IamHarshKashyap" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
 
-## Experience  
+## Experience 
+* Tata 1mg
+Engineering Intern | October 2022 - December 2022 
 * Cisco
 Technical Undergrad Intern | June 2022 - July 2022 
 * Licious
-SDE Intern | January 2022 - June 2022 
+Software Developer Intern | January 2022 - June 2022 
 * Yash Technologies
-SDE Intern | July 2021 - September 2021
+SoftwareEngineeringIntern | July 2021 - September 2021
 
 ## Projects  
 [Machine Learning](https://github.com/Harsh23Kashyap/Machine-Learning) 👀  
