@@ -65,7 +65,7 @@
 </a>  
 <a href="mailto:harsh.kashya2001@gmail.com" target="_blank">
 <img src=https://cdn.icon-icons.com/icons2/1826/PNG/512/4202011emailgmaillogomailsocialsocialmedia-115677_115624.png width="40" 
-     height="20" alt=mail style="margin-bottom: 5px;" />
+     height="30" alt=mail style="margin-bottom: 5px;" />
 </a> 
 <br/> 
 
