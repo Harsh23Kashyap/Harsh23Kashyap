@@ -64,15 +64,15 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 <a href="mailto:harsh.kashya2001@gmail.com" target="_blank">
-<img src=https://cdn.icon-icons.com/icons2/1826/PNG/512/4202011emailgmaillogomailsocialsocialmedia-115677_115624.png width="45" 
-     height="35" alt=mail style="margin-bottom: 5px;" />
+<img src=https://cdn.icon-icons.com/icons2/1826/PNG/512/4202011emailgmaillogomailsocialsocialmedia-115677_115624.png width="47" 
+     height="38" alt=mail style="margin-bottom: 5px;" />
 </a> 
 <br/> 
 
 #### View my Leetcode
 <a href="https://leetcode.com/Harsh23Kashyap/" target="_blank">
-<img src=https://miro.medium.com/max/1400/1*nFgF8PFbUBqaRVijajytog.jpeg width="65" 
-     height="35" alt=leetcode style="margin-bottom: 5px;" />
+<img src=https://miro.medium.com/max/1400/1*nFgF8PFbUBqaRVijajytog.jpeg width="75" 
+     height="38" alt=leetcode style="margin-bottom: 5px;" />
 </a>
 
 ## Experience 
