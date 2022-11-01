@@ -69,9 +69,9 @@
 </a> 
 <br/> 
 
-### View my Leetcode
+#### View my Leetcode
 <a href="https://leetcode.com/Harsh23Kashyap/" target="_blank">
-<img src=https://leetcode.com/static/images/LeetCode_Sharing.png width="65" 
+<img src=https://miro.medium.com/max/1400/1*nFgF8PFbUBqaRVijajytog.jpeg width="65" 
      height="35" alt=leetcode style="margin-bottom: 5px;" />
 </a>
 
