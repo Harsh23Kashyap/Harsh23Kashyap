@@ -71,7 +71,8 @@
 
 ### View my Leetcode
 <a href="https://leetcode.com/Harsh23Kashyap/" target="_blank">
-<img src=https://leetcode.com/static/images/LeetCode_Sharing.png alt=leetcode style="margin-bottom: 5px;" />
+<img src=https://leetcode.com/static/images/LeetCode_Sharing.png width="65" 
+     height="35" alt=leetcode style="margin-bottom: 5px;" />
 </a>
 
 ## Experience 
