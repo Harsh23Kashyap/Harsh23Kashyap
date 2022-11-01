@@ -83,7 +83,7 @@ Technical Undergrad Intern | June 2022 - July 2022
 * Licious
 Software Developer Intern | January 2022 - June 2022 
 * Yash Technologies
-SoftwareEngineeringIntern | July 2021 - September 2021
+Software Engineering Intern | July 2021 - September 2021
 
 ## Projects  
 [Machine Learning](https://github.com/Harsh23Kashyap/Machine-Learning) 👀  
