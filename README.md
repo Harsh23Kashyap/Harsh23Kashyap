@@ -52,7 +52,7 @@
 
 <br/>  
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+<img align="right" height="250" width="375" alt="" src="https://github.com/Harsh23Kashyap/Harsh23Kashyap/blob/master/coding.gif" />
 
 
 ## Connect with Me <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50">
