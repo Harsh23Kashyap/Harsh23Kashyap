@@ -64,8 +64,8 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 <a href="mailto:harsh.kashya2001@gmail.com" target="_blank">
-<img src=https://akm-img-a-in.tosshub.com/businesstoday/images/story/201904/gmail-660_040119014433.jpg? width="40" 
-     height="50" alt=mail style="margin-bottom: 5px;" />
+<img src=https://cdn.icon-icons.com/icons2/1826/PNG/512/4202011emailgmaillogomailsocialsocialmedia-115677_115624.png width="40" 
+     height="20" alt=mail style="margin-bottom: 5px;" />
 </a> 
 <br/> 
 
