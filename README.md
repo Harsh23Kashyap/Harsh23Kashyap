@@ -137,7 +137,7 @@ Software Engineering Intern | July 2021 - September 2021
 
 ## Education  
 * Thapar Institute of Engineering and Technology
-Bachelor of Technology | August 2019 - May 2023 | Computer Science and Engineering | CGPA - 9.78
+Bachelor of Technology | August 2019 - May 2023 | Computer Science and Engineering | CGPA - 9.68
 * Mount Assisi School
 Higher Secondary | June 2017 - May 2019 | ISC | Science | Percentage - 96.25%
 * Mount Assisi School
