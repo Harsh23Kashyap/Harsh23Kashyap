@@ -76,8 +76,10 @@
 </a>
 
 ## Experience 
+* Apple
+Software Developer Engineer Intern | January 2023 - Present
 * Tata 1mg
-Engineering Intern | October 2022 - December 2022 
+Engineering Intern | October 2022 - November 2022 
 * Cisco
 Technical Undergrad Intern | June 2022 - July 2022 
 * Licious
