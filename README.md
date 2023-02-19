@@ -9,7 +9,7 @@
 - ###### I am in Final year undergrad at Thapar and I am a passionate learner.😎  
   
 
-- ###### 🌱 I’m currently learning Machine Learning and Flutter 
+- ###### 🌱 I’m currently learning SpringBoot and JavaScript.
   
 - ###### ✨ I love to explore new technologies and leverage them to solve real-life problems.
 
@@ -33,7 +33,6 @@
 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 </div>
