@@ -2,7 +2,7 @@
 <img src="https://github.com/Kashyap-Harsh/Kashyap-Harsh/blob/master/Harsh.gif" align="center" style="width: 80%" />
 </div>  
  
- ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&lines=I+am+a+CSE+Student+from+Thapar+with+a+knach+of+coding)](https://git.io/typing-svg)
+ ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&lines=I+am+a+CSE+Student+from+Thapar)](https://git.io/typing-svg)
   
 <!-- ## <div align="center">I'm a CSE student from Thapar 👨‍💻 with a knack for coding. 🚀</div>   -->
 
