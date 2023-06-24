@@ -4,7 +4,7 @@
  
  ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&lines=I+am+a+CSE+Student+from+Thapar)](https://git.io/typing-svg)
   
-<!-- ## <div align="center">I'm a CSE student from Thapar 👨‍💻 with a knack for coding. 🚀</div>   -->
+<!-- ## <div align="center">I'm head over heels for solving real-life problems with the magic of code! 🚀</div>   -->
 
 
 - ###### I am in Computer Scinece and Engineering graduate from Thapar Institute of Engineering and Technology and I am a passionate learner.😎  
