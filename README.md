@@ -2,7 +2,7 @@
 <img src="https://github.com/Kashyap-Harsh/Kashyap-Harsh/blob/master/Harsh.gif" align="center" style="width: 80%" />
 </div>  
  
- ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=20&lines=I'm+head+over+heels+for+solving+real-life+problems+with+the+magic+of+code!)](https://git.io/typing-svg)
+ ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=10&lines=I'm+head+over+heels+for+solving+real-life+problems+with+the+magic+of+code!)](https://git.io/typing-svg)
   
 <!-- ## <div align="center">I'm head over heels for solving real-life problems with the magic of code! 🚀</div>   -->
 
