@@ -7,7 +7,7 @@
 <!-- ## <div align="center">I'm a CSE student from Thapar 👨‍💻 with a knack for coding. 🚀</div>   -->
 
 
-- ###### I am in Final year undergrad at Thapar and I am a passionate learner.😎  
+- ###### I am in Computer Scinece and Engineering graduate from Thapar Institute of Engineering and Technology and I am a passionate learner.😎  
   
 
 - ###### 🌱 I’m currently learning SpringBoot and JavaScript.
