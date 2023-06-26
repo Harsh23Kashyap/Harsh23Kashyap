@@ -64,7 +64,8 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 <a href="mailto:harsh.kashya2001@gmail.com" target="_blank">
-<img src=https://cdn.icon-icons.com/icons2/1826/PNG/512/4202011emailgmaillogomailsocialsocialmedia-115677_115624.png alt=mail style="margin-bottom: 5px;" />
+<img src=https://cdn.icon-icons.com/icons2/1826/PNG/512/4202011emailgmaillogomailsocialsocialmedia-115677_115624.png width="75" 
+     height="38"  alt=mail style="margin-bottom: 5px;" />
 </a> 
 <br/> 
 
@@ -77,8 +78,7 @@
 
 ### View my Website
 <a href="https://harshkashyapportfolio.netlify.app/" target="_blank">
-<img src=https://github.com/Harsh23Kashyap/Harsh23Kashyap/blob/master/clickhere.png width="75" 
-     height="38" alt=website style="margin-bottom: 5px;" />
+<img src=https://github.com/Harsh23Kashyap/Harsh23Kashyap/blob/master/clickhere.png alt=website style="margin-bottom: 5px;" />
 </a>
 
 ## Experience 
