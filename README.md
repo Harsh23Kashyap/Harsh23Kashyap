@@ -78,7 +78,8 @@
 
 ### View my Website
 <a href="https://harshkashyapportfolio.netlify.app/" target="_blank">
-<img src=https://github.com/Harsh23Kashyap/Harsh23Kashyap/blob/master/clickhere.png alt=website style="margin-bottom: 5px;" />
+<img src=https://github.com/Harsh23Kashyap/Harsh23Kashyap/blob/master/clickhere.png width="275" 
+     height="50"  alt=website style="margin-bottom: 5px;" />
 </a>
 
 ## Experience 
