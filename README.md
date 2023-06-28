@@ -83,6 +83,8 @@
 </a>
 
 ## Experience 
+* Zomato
+Software Developer Engineer | July 2023 - Present
 * Apple
 Software Developer Engineer Intern | January 2023 - June 2023
 * Tata 1mg
