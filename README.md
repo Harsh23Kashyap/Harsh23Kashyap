@@ -82,9 +82,11 @@
      height="50"  alt=website style="margin-bottom: 5px;" />
 </a>
 
-## Experience 
+## Work Experience 
 * Zomato
 Software Developer Engineer | July 2023 - Present
+
+## Internship Experience 
 * Apple
 Software Developer Engineer Intern | January 2023 - June 2023
 * Tata 1mg
