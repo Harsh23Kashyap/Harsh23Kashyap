@@ -83,7 +83,7 @@
 </a>
 
 ## Work Experience 
-* Zomato
+* Paypal
 Software Developer Engineer | July 2023 - Present
 
 ## Internship Experience 
