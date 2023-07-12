@@ -82,9 +82,7 @@
      height="50"  alt=website style="margin-bottom: 5px;" />
 </a>
 
-## Work Experience 
-* Paypal
-Software Developer Engineer | July 2023 - Present
+
 
 ## Internship Experience 
 * Apple
