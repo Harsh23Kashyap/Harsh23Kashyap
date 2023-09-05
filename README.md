@@ -74,6 +74,7 @@
 <img src=https://miro.medium.com/max/1400/1*nFgF8PFbUBqaRVijajytog.jpeg width="75" 
      height="38" alt=leetcode style="margin-bottom: 5px;" />
 </a>
+![LeetCode Stats](https://leetcard.jacoblin.cool/Harsh23Kashyap?theme=unicorn&font=Moulpali&ext=heatmap)
 
 
 ### View my Website
