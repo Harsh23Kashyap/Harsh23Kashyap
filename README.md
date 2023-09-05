@@ -49,11 +49,6 @@
 </div>
 
 </td></tr></table>  
-<a href="https://www.linkedin.com/in/harsh-kashyap/" target="_blank">
-  <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
-    <path d="M4 0a4 4 0 014 4v24a4 4 0 01-4 4h-2a4 4 0 01-4-4V4a4 4 0 014-4h2zm7 9v15H6V9h5zm6 0v15h-5V9h5zm6 0v11h-4v-4h-.5a2 2 0 00-2 2v2h-5V9h5v6a2 2 0 002 2h.5v-4H23z" fill="#0E76A8"/>
-  </svg>
-</a>
 <br/>  
 
 <img align="right" height="250" width="375" alt="" src="https://github.com/Harsh23Kashyap/Harsh23Kashyap/blob/master/coding.gif" />
