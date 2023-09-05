@@ -68,7 +68,9 @@
      height="38"  alt=mail style="margin-bottom: 5px;" />
 </a> 
 <br/> 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/Harsh23Kashyap?theme=unicorn&font=Moulpali&ext=heatmap)]
+
+## My Problem Solving 🔥
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Harsh23Kashyap?theme=unicorn&extension=heatmap)](https://leetcode.com/Harsh23Kashyap/)
 
 #### View my Leetcode
 <a href="https://leetcode.com/Harsh23Kashyap/" target="_blank">
