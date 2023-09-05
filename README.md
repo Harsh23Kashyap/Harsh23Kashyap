@@ -69,8 +69,7 @@
 </a> 
 <br/> 
 
-## My Problem Solving 🔥
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Harsh23Kashyap?theme=unicorn&extension=heatmap)](https://leetcode.com/Harsh23Kashyap/)
+
 
 #### View my Leetcode
 <a href="https://leetcode.com/Harsh23Kashyap/" target="_blank">
@@ -84,6 +83,9 @@
 <img src=https://github.com/Harsh23Kashyap/Harsh23Kashyap/blob/master/clickhere.png width="275" 
      height="50"  alt=website style="margin-bottom: 5px;" />
 </a>
+
+## My Problem Solving 🔥
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Harsh23Kashyap?theme=unicorn&extension=heatmap)](https://leetcode.com/Harsh23Kashyap/)
 
 ## Full-Time Experience 
 * PayPal
