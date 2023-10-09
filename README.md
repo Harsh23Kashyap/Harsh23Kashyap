@@ -7,9 +7,8 @@
 <!-- ## <div align="center">I'm head over heels for solving real-life problems with the magic of code! 🚀</div>   -->
 
 
-- ###### I am in Computer Scinece and Engineering graduate from Thapar Institute of Engineering and Technology and I am a passionate learner.😎  
+- ###### I am in Computer Science and Engineering graduate from Thapar Institute of Engineering and Technology and I am a passionate learner.😎  
   
-
 - ###### 🌱 I’m currently learning SpringBoot and JavaScript.
   
 - ###### ✨ I love to explore new technologies and leverage them to solve real-life problems.
