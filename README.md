@@ -83,6 +83,8 @@
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Harsh23Kashyap?theme=unicorn&extension=heatmap)](https://leetcode.com/Harsh23Kashyap/)
 
 ## Full-Time Experience 
+* Apple
+Cellular Protocol RAN/ Core Network Simulation Engineer | December 2023 - Present
 * PayPal
 Software Developer Engineer | July 2023 - Present
 
