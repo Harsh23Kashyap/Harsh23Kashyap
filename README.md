@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/Kashyap-Harsh/Kashyap-Harsh/blob/master/Harsh.gif" align="center" style="width: 80%" />
+<img src="https://github.com/Kashyap-Harsh/Kashyap-Harsh/blob/master/HarshK.gif" align="center" style="width: 80%" />
 </div>  
  
  ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&lines=I+love+solving+problems+using+codes.)](https://git.io/typing-svg)
