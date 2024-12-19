@@ -9,7 +9,7 @@
 
 - ###### I am in Computer Science and Engineering graduate from Thapar Institute of Engineering and Technology and I am a passionate learner.😎  
   
-- ###### 🌱 I’m currently learning SpringBoot and JavaScript.
+- ###### 🌱 I’m currently working on Swift and Python
   
 - ###### ✨ I love to explore new technologies and leverage them to solve real-life problems.
 
