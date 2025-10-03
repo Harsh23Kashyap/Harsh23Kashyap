@@ -131,8 +131,6 @@
 <div align="center">
   <img src="https://github.com/Harsh23Kashyap/Harsh23Kashyap/blob/master/coding.gif" alt="Coding" width="420" />
   <br /><br />
-  <a href="https://harshkashyapportfolio.netlify.app/" target="_blank">
-    <img src="https://github.com/Harsh23Kashyap/Harsh23Kashyap/blob/master/clickhere.png" alt="Visit my website" width="275" height="50" />
-  </a>
+  <strong>Make sure to go to my website <a href="https://harshkashyapportfolio.netlify.app/" target="_blank">here</a>!</strong>
   <br /><br />
 </div>
