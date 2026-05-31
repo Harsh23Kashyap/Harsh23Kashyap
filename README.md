@@ -201,13 +201,13 @@
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harsh23Kashyap&show_icons=true&count_private=true&hide_border=true&theme=react&include_all_commits=true&title_color=F7DF1E&icon_color=F7DF1E&text_color=FFFFFF&bg_color=0D1117)](https://github.com/Harsh23Kashyap)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Harsh23Kashyap&theme=react&hide_border=true&ring=F7DF1E&fire=F7DF1E&currStreakLabel=F7DF1E&sideLabels=FFFFFF&dates=FFFFFF&background=0D1117)](https://github.com/Harsh23Kashyap)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh23Kashyap&layout=compact&hide_border=true&theme=react&title_color=F7DF1E&text_color=FFFFFF&bg_color=0D1117)](https://github.com/Harsh23Kashyap)
+[![GitHub Stats](https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/output/github-stats.svg)](https://github.com/Harsh23Kashyap)
+[![GitHub Streak](https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/output/github-streak.svg)](https://github.com/Harsh23Kashyap)
+[![Top Languages](https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/output/top-langs.svg)](https://github.com/Harsh23Kashyap)
 
 <br /><br />
 
-![Snake animation](https://github.com/Harsh23Kashyap/Harsh23Kashyap/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/output/github-contribution-grid-snake.svg)
 
 </div>
 
