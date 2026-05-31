@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Harsh23Kashyap/Harsh23Kashyap/blob/master/HarshK.gif" alt="Header" width="85%" />
+  <img src="https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/master/HarshK.gif" alt="Header" width="85%" />
 </div>
 
 <div align="center">
@@ -10,12 +10,12 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-harshkashyapportfolio.netlify.app-21262D?style=flat-square&labelColor=161B22&logo=netlify&logoColor=E8C547)](https://harshkashyapportfolio.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harsh--Kashyap-21262D?style=flat-square&labelColor=161B22&logo=linkedin&logoColor=E8C547)](https://www.linkedin.com/in/harsh-kashyap/)
-[![GitHub](https://img.shields.io/badge/GitHub-Harsh23Kashyap-21262D?style=flat-square&labelColor=161B22&logo=github&logoColor=E8C547)](https://github.com/Harsh23Kashyap)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Harsh23Kashyap-21262D?style=flat-square&labelColor=161B22&logo=leetcode&logoColor=E8C547)](https://leetcode.com/Harsh23Kashyap/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-21262D?style=flat-square&labelColor=161B22&logo=netlify&logoColor=E8C547)](https://harshkashyapportfolio.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-21262D?style=flat-square&labelColor=161B22&logo=linkedin&logoColor=E8C547)](https://www.linkedin.com/in/harsh-kashyap/)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-21262D?style=flat-square&labelColor=161B22&logo=github&logoColor=E8C547)](https://github.com/Harsh23Kashyap)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-21262D?style=flat-square&labelColor=161B22&logo=leetcode&logoColor=E8C547)](https://leetcode.com/Harsh23Kashyap/)
 [![Topmate](https://img.shields.io/badge/Topmate-300%2B%20Sessions-21262D?style=flat-square&labelColor=161B22&logo=googlemeet&logoColor=E8C547)](https://topmate.io/harsh_kashyap)
-[![Email](https://img.shields.io/badge/Email-harsh.kashyap2001%40gmail.com-21262D?style=flat-square&labelColor=161B22&logo=gmail&logoColor=E8C547)](mailto:harsh.kashyap2001@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-21262D?style=flat-square&labelColor=161B22&logo=gmail&logoColor=E8C547)](mailto:harsh.kashyap2001@gmail.com)
 
 </div>
 
@@ -45,21 +45,32 @@
 
 <div align="center">
 
-**Global MNCs**  
-<img src="https://cdn.simpleicons.org/apple/E8C547" height="48" alt="Apple" />
+<table>
+<tr>
+<td align="center" width="50%"><sub><b>Global MNCs</b></sub></td>
+<td align="center" width="50%"><sub><b>Indian Startups</b></sub></td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://cdn.simpleicons.org/apple/E8C547" height="56" alt="Apple" />
 &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/paypal/E8C547" height="48" alt="PayPal" />
+<img src="https://cdn.simpleicons.org/paypal/E8C547" height="56" alt="PayPal" />
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/master/assets/logos/tata-1mg.svg" height="56" alt="Tata 1mg" />
 &nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/cisco/E8C547" height="48" alt="Cisco" />
-
-<br /><br />
-
-**Indian Startups**  
-<img src="https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/master/assets/logos/tata-1mg.png" height="48" alt="Tata 1mg" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/master/assets/logos/licious.png" height="48" alt="Licious" />
-&nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/master/assets/logos/yash.png" height="48" alt="YASH Technologies" />
+<img src="https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/master/assets/logos/licious.svg" height="56" alt="Licious" />
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://cdn.simpleicons.org/cisco/E8C547" height="56" alt="Cisco" />
+</td>
+<td align="center">
+<img src="https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/master/assets/logos/yash.svg" height="56" alt="YASH Technologies" />
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -67,7 +78,7 @@
 
 ## About Me
 
-<img align="right" height="220" width="330" alt="Coding" src="https://github.com/Harsh23Kashyap/Harsh23Kashyap/blob/master/coding.gif" />
+<img align="right" height="220" width="330" alt="Coding" src="https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/master/coding.gif" />
 
 - **Software Engineer 2 at Apple** — Bengaluru, India
 - Building macOS tooling, 5G protocol testing, LLM triage automation, and multi-agent telecom systems
@@ -152,25 +163,25 @@
 
 | | Company | Role | Period |
 | :---: | --- | --- | --- |
-| <img src="https://cdn.simpleicons.org/apple/E8C547" height="36" alt="Apple" /> | **Apple** | Software Engineer 2 | Dec 2023 – Present |
-| <img src="https://cdn.simpleicons.org/paypal/E8C547" height="36" alt="PayPal" /> | **PayPal** | Software Engineer | Jul 2023 – Oct 2023 |
+| <img src="https://cdn.simpleicons.org/apple/E8C547" height="40" alt="Apple" /> | **Apple** | Software Engineer 2 | Dec 2023 – Present |
+| <img src="https://cdn.simpleicons.org/paypal/E8C547" height="40" alt="PayPal" /> | **PayPal** | Software Engineer | Jul 2023 – Oct 2023 |
 
 ### Internships
 
 | | Company | Role | Period |
 | :---: | --- | --- | --- |
-| <img src="https://cdn.simpleicons.org/apple/E8C547" height="36" alt="Apple" /> | **Apple** | Software Developer Engineering Intern | Jan 2023 – Jun 2023 |
-| <img src="https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/master/assets/logos/tata-1mg.png" height="36" alt="Tata 1mg" /> | **Tata 1mg** | Engineering Intern | Oct 2022 – Nov 2022 |
-| <img src="https://cdn.simpleicons.org/cisco/E8C547" height="36" alt="Cisco" /> | **Cisco** | Technical Undergraduate Intern | Jun 2022 – Jul 2022 |
-| <img src="https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/master/assets/logos/licious.png" height="36" alt="Licious" /> | **Licious** | Software Developer Intern | Jan 2022 – May 2022 |
-| <img src="https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/master/assets/logos/yash.png" height="36" alt="YASH" /> | **YASH Technologies** | Software Engineering Intern | Jul 2021 – Sep 2021 |
+| <img src="https://cdn.simpleicons.org/apple/E8C547" height="40" alt="Apple" /> | **Apple** | Software Developer Engineering Intern | Jan 2023 – Jun 2023 |
+| <img src="https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/master/assets/logos/tata-1mg.svg" height="40" alt="Tata 1mg" /> | **Tata 1mg** | Engineering Intern | Oct 2022 – Nov 2022 |
+| <img src="https://cdn.simpleicons.org/cisco/E8C547" height="40" alt="Cisco" /> | **Cisco** | Technical Undergraduate Intern | Jun 2022 – Jul 2022 |
+| <img src="https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/master/assets/logos/licious.svg" height="40" alt="Licious" /> | **Licious** | Software Developer Intern | Jan 2022 – May 2022 |
+| <img src="https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/master/assets/logos/yash.svg" height="40" alt="YASH" /> | **YASH Technologies** | Software Engineering Intern | Jul 2021 – Sep 2021 |
 
 ### Research
 
 | | Institution | Focus |
 | :---: | --- | --- |
-| <img src="https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/master/assets/logos/nyu.svg" height="40" alt="NYU" /> | **New York University** | CustomNerd · DietNerd · WirelessNerd · InvestorNerd |
-| <img src="https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/master/assets/logos/wsu-cougar.svg" height="40" alt="WSU" /> | **Washington State University** | Agentic job matching · semantic search · fairness analysis |
+| <img src="https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/master/assets/logos/nyu.svg" height="44" alt="NYU" /> | **New York University** | CustomNerd · DietNerd · WirelessNerd · InvestorNerd |
+| <img src="https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/master/assets/logos/wsu-cougar.svg" height="44" alt="WSU" /> | **Washington State University** | Agentic job matching · semantic search · fairness analysis |
 
 ---
 
@@ -241,8 +252,8 @@
 <div align="center">
   <br />
   <a href="https://harshkashyapportfolio.netlify.app/" target="_blank">
-    <img src="https://github.com/Harsh23Kashyap/Harsh23Kashyap/blob/master/clickhere.png" alt="Visit my portfolio" width="320" />
+    <img src="https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/master/clickhere.png" alt="Visit my portfolio" width="320" />
   </a>
   <br /><br />
-  <img src="https://github.com/Harsh23Kashyap/Harsh23Kashyap/blob/master/coder.gif" alt="Coder" width="420" />
+  <img src="https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/master/coder.gif" alt="Coder" width="420" />
 </div>

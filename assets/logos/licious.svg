@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 132 36" role="img" aria-label="Licious">
+  <text x="2" y="27" fill="#FFFFFF" font-family="Georgia, 'Times New Roman', serif" font-size="28" font-weight="700" font-style="italic">Licious</text>
+  <circle cx="88" cy="9" r="3.2" fill="#E23744"/>
+  <circle cx="98" cy="9" r="3.2" fill="#E23744"/>
+  <path d="M84 19 Q92 28 102 19" stroke="#E23744" stroke-width="3.2" fill="none" stroke-linecap="round"/>
+</svg>
