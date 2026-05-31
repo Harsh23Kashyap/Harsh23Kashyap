@@ -41,18 +41,30 @@ jobs:
         with:
           USERNAME: Harsh23Kashyap
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          THEME: tokyonight
+          THEME: dark
           OUTPUT_PATH: dist/github-streak.svg
           HIDE_BORDER: "true"
-          BACKGROUND: "#0D1117"
-          RING: "#E8C547"
-          FIRE: "#E8C547"
-          CURR_STREAK_LABEL: "#E8C547"
-          SIDE_LABELS: "#E6EDF3"
-          DATES: "#8B949E"
-          CURR_STREAK_NUM: "#FFFFFF"
-          SIDE_NUMS: "#FFFFFF"
-          STROKE: "#30363D"
+          BACKGROUND: "0D1117"
+          RING: "E8C547"
+          FIRE: "E8C547"
+          CURR_STREAK_LABEL: "E8C547"
+
+      - name: Fix streak SVG hex colors
+        run: |
+          python3 <<'PY'
+          import re, pathlib
+          path = pathlib.Path("dist/github-streak.svg")
+          text = path.read_text()
+
+          def fix(match):
+              attr, value = match.group(1), match.group(2)
+              if value.startswith("#") or value.lower() in {"none", "white", "black", "transparent"} or value.startswith("url"):
+                  return match.group(0)
+              return f"{attr}='#{value}'"
+
+          text = re.sub(r"(fill|stroke)='([0-9A-Fa-f]{3,8})'", fix, text)
+          path.write_text(text)
+          PY
 
       - name: Generate contribution snake
         uses: Platane/snk@v3
