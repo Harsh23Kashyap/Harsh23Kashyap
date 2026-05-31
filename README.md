@@ -46,20 +46,20 @@
 <div align="center">
 
 **Global MNCs**  
-<img src="https://cdn.simpleicons.org/apple/E8C547" height="28" alt="Apple" />
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/paypal/E8C547" height="28" alt="PayPal" />
-&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/cisco/E8C547" height="28" alt="Cisco" />
+<img src="https://cdn.simpleicons.org/apple/E8C547" height="48" alt="Apple" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/paypal/E8C547" height="48" alt="PayPal" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/cisco/E8C547" height="48" alt="Cisco" />
 
 <br /><br />
 
 **Indian Startups**  
-<img src="https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/master/assets/logos/tata-1mg.png" height="28" alt="Tata 1mg" />
-&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/master/assets/logos/licious.png" height="28" alt="Licious" />
-&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/master/assets/logos/yash.png" height="28" alt="YASH Technologies" />
+<img src="https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/master/assets/logos/tata-1mg.png" height="48" alt="Tata 1mg" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/master/assets/logos/licious.png" height="48" alt="Licious" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/master/assets/logos/yash.png" height="48" alt="YASH Technologies" />
 
 </div>
 
@@ -152,25 +152,25 @@
 
 | | Company | Role | Period |
 | :---: | --- | --- | --- |
-| <img src="https://cdn.simpleicons.org/apple/E8C547" height="24" alt="Apple" /> | **Apple** | Software Engineer 2 | Dec 2023 – Present |
-| <img src="https://cdn.simpleicons.org/paypal/E8C547" height="24" alt="PayPal" /> | **PayPal** | Software Engineer | Jul 2023 – Oct 2023 |
+| <img src="https://cdn.simpleicons.org/apple/E8C547" height="36" alt="Apple" /> | **Apple** | Software Engineer 2 | Dec 2023 – Present |
+| <img src="https://cdn.simpleicons.org/paypal/E8C547" height="36" alt="PayPal" /> | **PayPal** | Software Engineer | Jul 2023 – Oct 2023 |
 
 ### Internships
 
 | | Company | Role | Period |
 | :---: | --- | --- | --- |
-| <img src="https://cdn.simpleicons.org/apple/E8C547" height="24" alt="Apple" /> | **Apple** | Software Developer Engineering Intern | Jan 2023 – Jun 2023 |
-| <img src="https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/master/assets/logos/tata-1mg.png" height="24" alt="Tata 1mg" /> | **Tata 1mg** | Engineering Intern | Oct 2022 – Nov 2022 |
-| <img src="https://cdn.simpleicons.org/cisco/E8C547" height="24" alt="Cisco" /> | **Cisco** | Technical Undergraduate Intern | Jun 2022 – Jul 2022 |
-| <img src="https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/master/assets/logos/licious.png" height="24" alt="Licious" /> | **Licious** | Software Developer Intern | Jan 2022 – May 2022 |
-| <img src="https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/master/assets/logos/yash.png" height="24" alt="YASH" /> | **YASH Technologies** | Software Engineering Intern | Jul 2021 – Sep 2021 |
+| <img src="https://cdn.simpleicons.org/apple/E8C547" height="36" alt="Apple" /> | **Apple** | Software Developer Engineering Intern | Jan 2023 – Jun 2023 |
+| <img src="https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/master/assets/logos/tata-1mg.png" height="36" alt="Tata 1mg" /> | **Tata 1mg** | Engineering Intern | Oct 2022 – Nov 2022 |
+| <img src="https://cdn.simpleicons.org/cisco/E8C547" height="36" alt="Cisco" /> | **Cisco** | Technical Undergraduate Intern | Jun 2022 – Jul 2022 |
+| <img src="https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/master/assets/logos/licious.png" height="36" alt="Licious" /> | **Licious** | Software Developer Intern | Jan 2022 – May 2022 |
+| <img src="https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/master/assets/logos/yash.png" height="36" alt="YASH" /> | **YASH Technologies** | Software Engineering Intern | Jul 2021 – Sep 2021 |
 
 ### Research
 
 | | Institution | Focus |
 | :---: | --- | --- |
-| <img src="https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/master/assets/logos/nyu.svg" height="28" alt="NYU" /> | **New York University** | CustomNerd · DietNerd · WirelessNerd · InvestorNerd |
-| <img src="https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/master/assets/logos/wsu-cougar.svg" height="28" alt="WSU" /> | **Washington State University** | Agentic job matching · semantic search · fairness analysis |
+| <img src="https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/master/assets/logos/nyu.svg" height="40" alt="NYU" /> | **New York University** | CustomNerd · DietNerd · WirelessNerd · InvestorNerd |
+| <img src="https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/master/assets/logos/wsu-cougar.svg" height="40" alt="WSU" /> | **Washington State University** | Agentic job matching · semantic search · fairness analysis |
 
 ---
 
