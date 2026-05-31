@@ -55,11 +55,11 @@
 <br /><br />
 
 **Indian Startups**  
-<img src="https://cdn.simpleicons.org/react/E8C547" height="28" alt="Tata 1mg" title="Tata 1mg" />
+<img src="https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/master/assets/logos/tata-1mg.png" height="28" alt="Tata 1mg" />
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/flutter/E8C547" height="28" alt="Licious" title="Licious" />
+<img src="https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/master/assets/logos/licious.png" height="28" alt="Licious" />
 &nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/springboot/E8C547" height="28" alt="YASH Technologies" title="YASH Technologies" />
+<img src="https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/master/assets/logos/yash.png" height="28" alt="YASH Technologies" />
 
 </div>
 
@@ -160,10 +160,10 @@
 | | Company | Role | Period |
 | :---: | --- | --- | --- |
 | <img src="https://cdn.simpleicons.org/apple/E8C547" height="24" alt="Apple" /> | **Apple** | Software Developer Engineering Intern | Jan 2023 – Jun 2023 |
-| <img src="https://cdn.simpleicons.org/react/E8C547" height="24" alt="Tata 1mg" /> | **Tata 1mg** | Engineering Intern | Oct 2022 – Nov 2022 |
+| <img src="https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/master/assets/logos/tata-1mg.png" height="24" alt="Tata 1mg" /> | **Tata 1mg** | Engineering Intern | Oct 2022 – Nov 2022 |
 | <img src="https://cdn.simpleicons.org/cisco/E8C547" height="24" alt="Cisco" /> | **Cisco** | Technical Undergraduate Intern | Jun 2022 – Jul 2022 |
-| <img src="https://cdn.simpleicons.org/flutter/E8C547" height="24" alt="Licious" /> | **Licious** | Software Developer Intern | Jan 2022 – May 2022 |
-| <img src="https://cdn.simpleicons.org/springboot/E8C547" height="24" alt="YASH" /> | **YASH Technologies** | Software Engineering Intern | Jul 2021 – Sep 2021 |
+| <img src="https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/master/assets/logos/licious.png" height="24" alt="Licious" /> | **Licious** | Software Developer Intern | Jan 2022 – May 2022 |
+| <img src="https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/master/assets/logos/yash.png" height="24" alt="YASH" /> | **YASH Technologies** | Software Engineering Intern | Jul 2021 – Sep 2021 |
 
 ### Research
 
