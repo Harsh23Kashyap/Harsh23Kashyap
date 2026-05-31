@@ -169,8 +169,8 @@
 
 | | Institution | Focus |
 | :---: | --- | --- |
-| <img src="https://cdn.simpleicons.org/newyorkuniversity/E8C547" height="24" alt="NYU" /> | **New York University** | CustomNerd · DietNerd · WirelessNerd · InvestorNerd |
-| <img src="https://cdn.simpleicons.org/washingtonstateuniversity/E8C547" height="24" alt="WSU" /> | **Washington State University** | Agentic job matching · semantic search · fairness analysis |
+| <img src="https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/master/assets/logos/nyu.svg" height="28" alt="NYU" /> | **New York University** | CustomNerd · DietNerd · WirelessNerd · InvestorNerd |
+| <img src="https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/master/assets/logos/wsu-cougar.svg" height="28" alt="WSU" /> | **Washington State University** | Agentic job matching · semantic search · fairness analysis |
 
 ---
 
