@@ -24,7 +24,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: stats
-          options: username=Harsh23Kashyap&show_icons=true&count_private=true&hide_border=true&theme=react&include_all_commits=true&title_color=F7DF1E&icon_color=F7DF1E&text_color=FFFFFF&bg_color=0D1117
+          options: username=Harsh23Kashyap&show_icons=true&count_private=true&hide_border=true&theme=react&include_all_commits=true&title_color=E8C547&icon_color=E8C547&text_color=C9D1D9&bg_color=0D1117
           path: dist/github-stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -32,7 +32,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: top-langs
-          options: username=Harsh23Kashyap&layout=compact&hide_border=true&theme=react&title_color=F7DF1E&text_color=FFFFFF&bg_color=0D1117
+          options: username=Harsh23Kashyap&layout=compact&hide_border=true&theme=react&title_color=E8C547&text_color=C9D1D9&bg_color=0D1117
           path: dist/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -45,13 +45,13 @@ jobs:
           OUTPUT_PATH: dist/github-streak.svg
           HIDE_BORDER: "true"
           BACKGROUND: "0D1117"
-          RING: "F7DF1E"
-          FIRE: "F7DF1E"
-          CURR_STREAK_LABEL: "F7DF1E"
-          SIDE_LABELS: "FFFFFF"
-          DATES: "FFFFFF"
-          CURR_STREAK_NUM: "FFFFFF"
-          SIDE_NUMS: "FFFFFF"
+          RING: "E8C547"
+          FIRE: "E8C547"
+          CURR_STREAK_LABEL: "E8C547"
+          SIDE_LABELS: "C9D1D9"
+          DATES: "8B949E"
+          CURR_STREAK_NUM: "C9D1D9"
+          SIDE_NUMS: "C9D1D9"
 
       - name: Generate contribution snake
         uses: Platane/snk@v3
