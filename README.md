@@ -50,7 +50,8 @@
 
 <img align="right" height="220" width="330" alt="Coding" src="https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/master/coding.gif" />
 
-- **Software Engineer 2 at Apple** — building macOS tooling, 5G protocol testing, LLM triage automation, and multi-agent telecom systems
+- **Software Engineer 2 at Apple** — macOS tooling for 600+ engineers, 5G protocol testing, LLM triage automation, and multi-agent telecom systems
+- **Impact** — 80% adoption on internal tools · 40% faster incident resolution · $720K annual savings
 - **B.E. CSE**, Thapar Institute — CGPA **9.71**, TIET Merit Scholarship (top **0.5%**)
 - **Previously** at PayPal · internships at Apple, Tata 1mg, Cisco, Licious, and YASH Technologies
 - **Research** with Professor Dennis Shasha (NYU) and Dr. Parteek Kumar (Washington State University)
@@ -88,7 +89,7 @@
 
 | | Institution | Focus |
 | :---: | --- | --- |
-| <img src="https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/master/assets/logos/nyu.svg" height="44" alt="NYU" /> | **New York University** | CustomNerd · DietNerd · WirelessNerd · InvestorNerd |
+| <img src="https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/master/assets/logos/nyu.svg" height="44" alt="NYU" /> | **New York University** | CustomNerd (MDPI submission) · DietNerd · WirelessNerd · InvestorNerd |
 | <img src="https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/master/assets/logos/wsu-cougar.svg" height="44" alt="WSU" /> | **Washington State University** | Agentic job matching · semantic search · fairness analysis |
 
 </details>
@@ -104,6 +105,7 @@
 **Languages & Backend**
 
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white&labelColor=161B22)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-FA7343?style=flat-square&logo=swift&logoColor=white&labelColor=161B22)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=161B22)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white&labelColor=161B22)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white&labelColor=161B22)
@@ -115,6 +117,7 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=E8C547&labelColor=161B22)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=161B22)
 ![RAG](https://img.shields.io/badge/RAG-412991?style=flat-square&logo=openai&logoColor=white&labelColor=161B22)
+![FAISS](https://img.shields.io/badge/FAISS-412991?style=flat-square&labelColor=161B22&color=E8C547)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white&labelColor=161B22)
 ![XGBoost](https://img.shields.io/badge/XGBoost-017CEE?style=flat-square&labelColor=161B22&color=E8C547)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white&labelColor=161B22)
