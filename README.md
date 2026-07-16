@@ -3,44 +3,16 @@
 </div>
 
 <div align="center">
-  <a href="https://readme-typing-svg.herokuapp.com">
-    <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3500&pause=800&color=67E8F9&center=true&vCenter=true&width=680&lines=Software+Engineer+2+%40+Apple;Swift+%7C+Python+%7C+C%2B%2B+%7C+React;5G+protocol+testing+%7C+LLM+agents+%7C+macOS" alt="Typing" />
-  </a>
-</div>
-
-<div align="center">
-  <sub><b>Passionate software engineer</b> with energy, enthusiasm, and a drive for excellence · Bengaluru, India</sub>
+  <sub><b>Software Engineer @ Apple</b> · macOS tooling, 5G protocol testing & LLM agents · Bengaluru, India</sub>
 </div>
 
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-21262D?style=flat-square&labelColor=161B22&logo=netlify&logoColor=E8C547)](https://harshkashyapportfolio.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-21262D?style=flat-square&labelColor=161B22&logo=linkedin&logoColor=E8C547)](https://www.linkedin.com/in/harsh-kashyap/)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-21262D?style=flat-square&labelColor=161B22&logo=github&logoColor=E8C547)](https://github.com/Harsh23Kashyap)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-21262D?style=flat-square&labelColor=161B22&logo=leetcode&logoColor=E8C547)](https://leetcode.com/Harsh23Kashyap/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-1600%2B%20Solved-21262D?style=flat-square&labelColor=161B22&logo=leetcode&logoColor=E8C547)](https://leetcode.com/Harsh23Kashyap/)
 [![Topmate](https://img.shields.io/badge/Topmate-300%2B%20Sessions-21262D?style=flat-square&labelColor=161B22&logo=googlemeet&logoColor=E8C547)](https://topmate.io/harsh_kashyap)
 [![Email](https://img.shields.io/badge/Email-Contact-21262D?style=flat-square&labelColor=161B22&logo=gmail&logoColor=E8C547)](mailto:harsh.kashyap2001@gmail.com)
-
-</div>
-
----
-
-## At a Glance
-
-<div align="center">
-
-[![Experience](https://img.shields.io/badge/Experience-3%2B%20Years-21262D?style=flat-square&labelColor=161B22)](https://harshkashyapportfolio.netlify.app/)
-[![MNCs](https://img.shields.io/badge/Global%20MNCs-3-21262D?style=flat-square&labelColor=161B22)](https://harshkashyapportfolio.netlify.app/)
-[![Startups](https://img.shields.io/badge/Indian%20Startups-3-21262D?style=flat-square&labelColor=161B22)](https://harshkashyapportfolio.netlify.app/)
-[![OSS Forks](https://img.shields.io/badge/Open%20Source-8%20Projects-21262D?style=flat-square&labelColor=161B22&logo=github&logoColor=E8C547)](https://github.com/Harsh23Kashyap?tab=repositories)
-[![Research](https://img.shields.io/badge/Research%20Works-2-21262D?style=flat-square&labelColor=161B22)](https://harshkashyapportfolio.netlify.app/)
-
-<br />
-
-[![CGPA](https://img.shields.io/badge/CGPA-9.71-21262D?style=flat-square&labelColor=161B22)](https://harshkashyapportfolio.netlify.app/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-1600%2B%20Questions-21262D?style=flat-square&labelColor=161B22&logo=leetcode&logoColor=E8C547)](https://leetcode.com/Harsh23Kashyap/)
-[![GitHub](https://img.shields.io/badge/GitHub-7K%2B%20Contributions-21262D?style=flat-square&labelColor=161B22&logo=github&logoColor=E8C547)](https://github.com/Harsh23Kashyap)
-[![Merit](https://img.shields.io/badge/TIET%20Merit-Top%200.5%25-21262D?style=flat-square&labelColor=161B22)](https://harshkashyapportfolio.netlify.app/)
 
 </div>
 
@@ -52,11 +24,47 @@
 
 - **Software Engineer 2 at Apple** — macOS tooling for 600+ engineers, 5G protocol testing, LLM triage automation, and multi-agent telecom systems
 - **Impact** — 80% adoption on internal tools · 40% faster incident resolution · $720K annual savings
+- **Active upstream contributor** — **50+ merged PRs** across `infiniflow/ragflow`, `langgenius/dify`, `langgenius/dify-sandbox`, `langgenius/dify-official-plugins`, `named-data/ndnd`, `langfuse/langfuse`, and more
+- **Open-source footprint** — 84 repos · **1,895 contributions** in the last year · contributions to RAG, agent, observability, and mobility ecosystems
 - **B.E. CSE**, Thapar Institute — CGPA **9.71**, TIET Merit Scholarship (top **0.5%**)
 - **Previously** at PayPal · internships at Apple, Tata 1mg, Cisco, Licious, and YASH Technologies
-- **Research** with Professor Dennis Shasha (NYU) and Dr. Parteek Kumar (Washington State University)
-- Active in **open source** — RAG, agentic AI, and observability ecosystems
-- Keyboard over mouse
+- **Research** — CustomNerd framework (NYU, Prof. Dennis Shasha) · Job-Matching-Agentic (WSU, Dr. Parteek Kumar) · Odyssey / DataFusion cost modelling (Univ. of Edinburgh)
+
+---
+
+## Currently
+
+| Focus | Details |
+| --- | --- |
+| **Building** | macOS apps & LLM triage pipelines at Apple |
+| **Shipping upstream** | 50+ merged PRs in 2026 — ragflow · dify · dify-sandbox · dify-official-plugins · ndnd · on pace for 100+ by EOY |
+| **Exploring** | RAGFlow · LangGraph · LangChain · Dify · SigNoz · Helicone · LiteLLM · Ragas · Qdrant · Infinity · Namma Yatri |
+| **Research** | CustomNerd framework (NYU, manuscript in progress) · Job-Matching-Agentic (WSU) · Odyssey / DataFusion cost modelling (Edinburgh) |
+
+---
+
+## Where I'm Heading
+
+<sub>Open-source contributions and research directions I'm pushing into over the next 6–12 months.</sub>
+
+<div align="center">
+
+[![Merged PRs](https://img.shields.io/badge/Merged%20PRs%202026-50%2B-21262D?style=flat-square&labelColor=161B22&logo=github&logoColor=E8C547)](https://github.com/pulls?q=author%3AHarsh23Kashyap+is%3Apr+is%3Aclosed)
+[![Upstream Projects](https://img.shields.io/badge/Upstream%20Projects-5%2B-21262D?style=flat-square&labelColor=161B22&logo=github&logoColor=E8C547)](https://github.com/Harsh23Kashyap?tab=repositories&q=&type=source)
+[![Repositories](https://img.shields.io/badge/Repositories-84-21262D?style=flat-square&labelColor=161B22&logo=github&logoColor=E8C547)](https://github.com/Harsh23Kashyap?tab=repositories)
+
+</div>
+
+| Track | Direction |
+| --- | --- |
+| **RAG infra** | Going deeper into `infiniflow/ragflow` — agent inputs, deepdoc parsing, GMM clustering, retrieval quality edge cases. Likely moving toward plugin/plugin-API surface next. |
+| **Agent frameworks** | Active across `langgenius/dify`, `dify-sandbox`, `dify-official-plugins` — seccomp hardening, plugin auth flows, model-provider plumbing. Next: cost-tracing hooks and tenant-isolation edges. |
+| **LLM observability** | Contributions and forks in `langfuse`, `helicone`, `neatlogs`, `signoz`. Watching where OTel-native LLM tracing goes next — likely landing eval/feedback primitives. |
+| **Vector & AI-native DBs** | Forking and reading `qdrant-client`, `infinity`, `ragas`. Ragas-style evaluation harnesses for CustomNerd's research outputs. |
+| **Protocols & mobility** | Shipping into `named-data/ndnd` (security/CRL) and `nammayatri` (Haskell, open mobility). 5G protocol testing at Apple keeps me close to ASN.1/UICC pain. |
+| **Research** | CustomNerd paper in progress (NYU, Prof. Dennis Shasha) · Job-Matching-Agentic platform maturing toward WSU submission · Odyssey cost-model work with Edinburgh continuing. |
+
+<sub>On pace for **100+ merged PRs by end of 2026** and 2,500+ annual contributions. Always open to upstream issues, RFCs, and design reviews.</sub>
 
 ---
 
@@ -98,6 +106,8 @@
 
 ## Tech Stack
 
+<sub>Core technologies I use day-to-day — not an exhaustive list.</sub>
+
 <table>
 <tr>
 <td width="50%" valign="top">
@@ -107,9 +117,9 @@
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white&labelColor=161B22)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-FA7343?style=flat-square&logo=swift&logoColor=white&labelColor=161B22)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=161B22)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white&labelColor=161B22)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white&labelColor=161B22)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white&labelColor=161B22)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white&labelColor=161B22)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=161B22)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white&labelColor=161B22)
 
 **Cloud, Data & AI**
@@ -119,8 +129,7 @@
 ![RAG](https://img.shields.io/badge/RAG-412991?style=flat-square&logo=openai&logoColor=white&labelColor=161B22)
 ![FAISS](https://img.shields.io/badge/FAISS-412991?style=flat-square&labelColor=161B22&color=E8C547)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white&labelColor=161B22)
-![XGBoost](https://img.shields.io/badge/XGBoost-017CEE?style=flat-square&labelColor=161B22&color=E8C547)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white&labelColor=161B22)
+![LiteLLM](https://img.shields.io/badge/LiteLLM-000000?style=flat-square&labelColor=161B22)
 
 </td>
 <td width="50%" valign="top">
@@ -128,18 +137,17 @@
 **Web & UI**
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB&labelColor=161B22)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white&labelColor=161B22)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white&labelColor=161B22)
 ![JavaScript](https://img.shields.io/badge/JavaScript-E8C547?style=flat-square&logo=javascript&logoColor=161B22&labelColor=161B22)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white&labelColor=161B22)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white&labelColor=161B22)
 
 **Tools & Observability**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white&labelColor=161B22)
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white&labelColor=161B22)
+![Langfuse](https://img.shields.io/badge/Langfuse-000000?style=flat-square&labelColor=161B22&color=E8C547)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=E8C547&labelColor=161B22)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white&labelColor=161B22)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white&labelColor=161B22)
 
 </td>
 </tr>
@@ -155,16 +163,16 @@
 <tr>
 <td width="50%" valign="top">
 
-[![Stock Market Predictor](https://img.shields.io/badge/Stock%20Market%20Predictor-Hugging%20Face-21262D?style=flat-square&labelColor=161B22&logo=huggingface&logoColor=E8C547)](https://huggingface.co/spaces/Harsh23Kashyap/StockMarketPredictor)
-[![QnA System](https://img.shields.io/badge/QnA%20System-Hugging%20Face-21262D?style=flat-square&labelColor=161B22&logo=huggingface&logoColor=E8C547)](https://huggingface.co/spaces/Harsh23Kashyap/QnA-System)
-[![Placement Visualiser](https://img.shields.io/badge/Placement%20Visualiser-Streamlit-21262D?style=flat-square&labelColor=161B22)](https://harsh23kashyap-placement-record-visualiser-dashboard-i2c84v.streamlit.app/)
+[![Custom-Nerd](https://img.shields.io/badge/CustomNerd-NYU%20Research-21262D?style=flat-square&labelColor=161B22&logo=github&logoColor=E8C547)](https://github.com/Harsh23Kashyap/Custom-Nerd)
+[![Job-Matching-Agentic](https://img.shields.io/badge/Job--Matching--Agentic-WSU%20Research-21262D?style=flat-square&labelColor=161B22&logo=github&logoColor=E8C547)](https://github.com/Harsh23Kashyap/Job-Matching-Agentic)
+[![Odyssey](https://img.shields.io/badge/Odyssey-Edinburgh%20Research-21262D?style=flat-square&labelColor=161B22&logo=github&logoColor=E8C547)](https://github.com/Harsh23Kashyap/Odyssey)
 
 </td>
 <td width="50%" valign="top">
 
-[![CodeClue](https://img.shields.io/badge/CodeClue-GitHub-21262D?style=flat-square&labelColor=161B22&logo=github&logoColor=E8C547)](https://github.com/Harsh23Kashyap/CodeClue)
-[![AI Terminal](https://img.shields.io/badge/AI%20Terminal-GitHub-21262D?style=flat-square&labelColor=161B22&logo=github&logoColor=E8C547)](https://github.com/Harsh23Kashyap/AI-Terminal)
-[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-GitHub-21262D?style=flat-square&labelColor=161B22&logo=github&logoColor=E8C547)](https://github.com/Harsh23Kashyap/Machine-Learning)
+[![daily-contribution-bot](https://img.shields.io/badge/daily--contribution--bot-Python-21262D?style=flat-square&labelColor=161B22&logo=github&logoColor=E8C547)](https://github.com/Harsh23Kashyap/daily-contribution-bot)
+[![Mailer](https://img.shields.io/badge/Mailer-Python-21262D?style=flat-square&labelColor=161B22&logo=github&logoColor=E8C547)](https://github.com/Harsh23Kashyap/Mailer)
+[![LLD](https://img.shields.io/badge/LLD-Java-21262D?style=flat-square&labelColor=161B22&logo=github&logoColor=E8C547)](https://github.com/Harsh23Kashyap/LLD)
 
 </td>
 </tr>
@@ -174,33 +182,109 @@
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td align="center" width="12.5%">
 <a href="https://github.com/Harsh23Kashyap/ragflow">
-<img src="https://cdn.simpleicons.org/python/E8C547" height="40" alt="RAGFlow" /><br />
+<img src="https://cdn.simpleicons.org/python/E8C547" height="32" alt="RAGFlow" /><br />
 <sub><b>RAGFlow</b></sub><br />
-<sub>RAG + agent context layer</sub>
+<sub>RAG engine</sub>
 </a>
 </td>
-<td align="center" width="25%">
-<a href="https://github.com/Harsh23Kashyap/langchain">
-<img src="https://cdn.simpleicons.org/langchain/E8C547" height="40" alt="LangChain" /><br />
-<sub><b>LangChain</b></sub><br />
-<sub>Agent engineering platform</sub>
-</a>
-</td>
-<td align="center" width="25%">
-<a href="https://github.com/Harsh23Kashyap/langgraph">
-<img src="https://cdn.simpleicons.org/langchain/E8C547" height="40" alt="LangGraph" /><br />
-<sub><b>LangGraph</b></sub><br />
-<sub>Resilient agent workflows</sub>
-</a>
-</td>
-<td align="center" width="25%">
+<td align="center" width="12.5%">
 <a href="https://github.com/Harsh23Kashyap/dify">
-<img src="https://cdn.simpleicons.org/typescript/E8C547" height="40" alt="Dify" /><br />
+<img src="https://cdn.simpleicons.org/typescript/E8C547" height="32" alt="Dify" /><br />
 <sub><b>Dify</b></sub><br />
-<sub>Agentic workflow platform</sub>
+<sub>Agentic workflows</sub>
 </a>
+</td>
+<td align="center" width="12.5%">
+<a href="https://github.com/Harsh23Kashyap/dify-sandbox">
+<img src="https://cdn.simpleicons.org/go/E8C547" height="32" alt="dify-sandbox" /><br />
+<sub><b>dify-sandbox</b></sub><br />
+<sub>Code execution</sub>
+</a>
+</td>
+<td align="center" width="12.5%">
+<a href="https://github.com/Harsh23Kashyap/dify-official-plugins">
+<img src="https://cdn.simpleicons.org/python/E8C547" height="32" alt="dify-official-plugins" /><br />
+<sub><b>dify plugins</b></sub><br />
+<sub>Plugin ecosystem</sub>
+</a>
+</td>
+<td align="center" width="12.5%">
+<a href="https://github.com/Harsh23Kashyap/langchain">
+<img src="https://cdn.simpleicons.org/langchain/E8C547" height="32" alt="LangChain" /><br />
+<sub><b>LangChain</b></sub><br />
+<sub>Agent platform</sub>
+</a>
+</td>
+<td align="center" width="12.5%">
+<a href="https://github.com/Harsh23Kashyap/langgraph">
+<img src="https://cdn.simpleicons.org/langchain/E8C547" height="32" alt="LangGraph" /><br />
+<sub><b>LangGraph</b></sub><br />
+<sub>Resilient agents</sub>
+</a>
+</td>
+<td align="center" width="12.5%">
+<a href="https://github.com/Harsh23Kashyap/litellm">
+<img src="https://cdn.simpleicons.org/python/E8C547" height="32" alt="LiteLLM" /><br />
+<sub><b>LiteLLM</b></sub><br />
+<sub>100+ LLM gateway</sub>
+</a>
+</td>
+<td align="center" width="12.5%">
+<a href="https://github.com/Harsh23Kashyap/ragas">
+<img src="https://cdn.simpleicons.org/python/E8C547" height="32" alt="Ragas" /><br />
+<sub><b>Ragas</b></sub><br />
+<sub>LLM evals</sub>
+</a>
+</td>
+</tr>
+<tr>
+<td align="center" width="12.5%">
+<a href="https://github.com/Harsh23Kashyap/qdrant-client">
+<img src="https://cdn.simpleicons.org/python/E8C547" height="32" alt="Qdrant" /><br />
+<sub><b>Qdrant</b></sub><br />
+<sub>Vector search</sub>
+</a>
+</td>
+<td align="center" width="12.5%">
+<a href="https://github.com/Harsh23Kashyap/infinity">
+<img src="https://cdn.simpleicons.org/cplusplus/E8C547" height="32" alt="Infinity" /><br />
+<sub><b>Infinity</b></sub><br />
+<sub>AI-native DB</sub>
+</a>
+</td>
+<td align="center" width="12.5%">
+<a href="https://github.com/Harsh23Kashyap/nao">
+<img src="https://cdn.simpleicons.org/typescript/E8C547" height="32" alt="Nao" /><br />
+<sub><b>Nao</b></sub><br />
+<sub>Analytics agent</sub>
+</a>
+</td>
+<td align="center" width="12.5%">
+<a href="https://github.com/Harsh23Kashyap/neatlogs">
+<img src="https://cdn.simpleicons.org/python/E8C547" height="32" alt="Neatlogs" /><br />
+<sub><b>Neatlogs</b></sub><br />
+<sub>Agent traces</sub>
+</a>
+</td>
+<td align="center" width="12.5%">
+<a href="https://github.com/Harsh23Kashyap/sourcebot-fork-test">
+<img src="https://cdn.simpleicons.org/typescript/E8C547" height="32" alt="Sourcebot" /><br />
+<sub><b>Sourcebot</b></sub><br />
+<sub>Codebase search</sub>
+</a>
+</td>
+<td align="center" width="12.5%">
+<a href="https://github.com/Harsh23Kashyap/ndnd">
+<img src="https://cdn.simpleicons.org/go/E8C547" height="32" alt="ndnd" /><br />
+<sub><b>ndnd</b></sub><br />
+<sub>Named-data net</sub>
+</a>
+</td>
+<td align="center" width="12.5%">
+</td>
+<td align="center" width="12.5%">
 </td>
 </tr>
 </table>
@@ -209,28 +293,35 @@
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td align="center" width="20%">
 <a href="https://github.com/Harsh23Kashyap/signoz">
 <img src="https://cdn.simpleicons.org/opentelemetry/E8C547" height="40" alt="SigNoz" /><br />
 <sub><b>SigNoz</b></sub><br />
 <sub>OTel logs, traces, metrics</sub>
 </a>
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
+<a href="https://github.com/Harsh23Kashyap/langfuse">
+<img src="https://cdn.simpleicons.org/typescript/E8C547" height="40" alt="Langfuse" /><br />
+<sub><b>Langfuse</b></sub><br />
+<sub>LLM evals & observability</sub>
+</a>
+</td>
+<td align="center" width="20%">
 <a href="https://github.com/Harsh23Kashyap/helicone">
 <img src="https://cdn.simpleicons.org/typescript/E8C547" height="40" alt="Helicone" /><br />
 <sub><b>Helicone</b></sub><br />
 <sub>LLM observability</sub>
 </a>
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
 <a href="https://github.com/Harsh23Kashyap/neatlogs">
 <img src="https://cdn.simpleicons.org/python/E8C547" height="40" alt="Neatlogs" /><br />
 <sub><b>Neatlogs</b></sub><br />
 <sub>AI agent trace debugging</sub>
 </a>
 </td>
-<td align="center" width="25%">
+<td align="center" width="20%">
 <a href="https://github.com/Harsh23Kashyap/nammayatri">
 <img src="https://cdn.simpleicons.org/haskell/E8C547" height="40" alt="Namma Yatri" /><br />
 <sub><b>Namma Yatri</b></sub><br />
@@ -242,15 +333,59 @@
 
 ---
 
+## Activity
+
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+
+**GitHub**
+
+[![GitHub Stats](https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/output/github-stats.svg)](https://github.com/Harsh23Kashyap)
+
+</td>
+<td width="50%" align="center" valign="top">
+
+**LeetCode**
+
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Harsh23Kashyap?theme=dark&font=Noto%20Sans&extension=heatmap)](https://leetcode.com/Harsh23Kashyap/)
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>More stats</b></summary>
+<br />
+
+<div align="center">
+
+[![GitHub Streak](https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/output/github-streak.svg)](https://github.com/Harsh23Kashyap)
+[![Top Languages](https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/output/top-langs.svg)](https://github.com/Harsh23Kashyap)
+
+</div>
+
+</details>
+
+---
+
 ## Achievements
 
 <div align="center">
 
+[![OSS PRs 2026](https://img.shields.io/badge/OSS%20PRs%202026-50%2B%20Merged-21262D?style=flat-square&labelColor=161B22&logo=github&logoColor=E8C547)](#where-im-heading)
+[![Contributions YTD](https://img.shields.io/badge/Contributions%20(2025--26)-1%2C895-21262D?style=flat-square&labelColor=161B22&logo=github&logoColor=E8C547)](https://github.com/Harsh23Kashyap)
 [![IICC](https://img.shields.io/badge/IICC%20(AICTE)-89th%20%2F%20100K-21262D?style=flat-square&labelColor=161B22)](https://harshkashyapportfolio.netlify.app/)
 [![Innovation Deck](https://img.shields.io/badge/Apple%20Innovation%20Deck-350%2B%20Submissions-21262D?style=flat-square&labelColor=161B22)](https://harshkashyapportfolio.netlify.app/)
-[![Certificates](https://img.shields.io/badge/Certificates-Google%20Drive-21262D?style=flat-square&labelColor=161B22&logo=googledrive&logoColor=E8C547)](https://drive.google.com/drive/u/0/folders/1raz8Z0f7Db-AncWtucGtYBlHlOIIiFNk)
+[![TIET Merit](https://img.shields.io/badge/TIET%20Merit-Top%200.5%25-21262D?style=flat-square&labelColor=161B22)](https://harshkashyapportfolio.netlify.app/)
 
-<br /><br />
+</div>
+
+<details>
+<summary><b>GitHub achievements</b></summary>
+<br />
+
+<div align="center">
 
 [![Pair Extraordinaire](https://img.shields.io/badge/Pair%20Extraordinaire-GitHub%20Achievement-21262D?style=flat-square&labelColor=161B22&logo=github&logoColor=E8C547)](https://github.com/Harsh23Kashyap)
 [![Quickdraw](https://img.shields.io/badge/Quickdraw-GitHub%20Achievement-21262D?style=flat-square&labelColor=161B22&logo=github&logoColor=E8C547)](https://github.com/Harsh23Kashyap)
@@ -259,37 +394,7 @@
 
 </div>
 
----
-
-## Problem Solving
-
-<div align="center">
-
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Harsh23Kashyap?theme=dark&font=Noto%20Sans&extension=heatmap)](https://leetcode.com/Harsh23Kashyap/)
-
-</div>
-
----
-
-## GitHub Analytics
-
-<div align="center">
-
-[![GitHub Stats](https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/output/github-stats.svg)](https://github.com/Harsh23Kashyap)
-[![GitHub Streak](https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/output/github-streak.svg)](https://github.com/Harsh23Kashyap)
-[![Top Languages](https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/output/top-langs.svg)](https://github.com/Harsh23Kashyap)
-
-<br /><br />
-
-<details>
-<summary><b>Contribution Snake</b></summary>
-<br />
-
-![Snake animation](https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/output/github-contribution-grid-snake.svg)
-
 </details>
-
-</div>
 
 ---
 
@@ -330,14 +435,3 @@ Cricket · F1 · Treks · Gym · Cooking · Reading
 </td>
 </tr>
 </table>
-
----
-
-<div align="center">
-  <br />
-  <a href="https://harshkashyapportfolio.netlify.app/" target="_blank">
-    <img src="https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/master/clickhere.png" alt="Visit my portfolio" width="320" />
-  </a>
-  <br /><br />
-  <img src="https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/master/coder.gif" alt="Coder" width="420" />
-</div>
