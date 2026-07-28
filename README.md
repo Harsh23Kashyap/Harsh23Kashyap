@@ -28,7 +28,7 @@
 - **Open-source footprint** — 84 repos · **1,895 contributions** in the last year · contributions to RAG, agent, observability, and mobility ecosystems
 - **B.E. CSE**, Thapar Institute — CGPA **9.71**, TIET Merit Scholarship (top **0.5%**)
 - **Previously** at PayPal · internships at Apple, Tata 1mg, Cisco, Licious, and YASH Technologies
-- **Research** — CustomNerd framework (NYU, Prof. Dennis Shasha) · Job-Matching-Agentic (WSU, Dr. Parteek Kumar) · Odyssey / DataFusion cost modelling (Univ. of Edinburgh) · ScientficPerplexity (UBC, Prof. L.A.K.S.)
+- **Research** — CustomNerd framework (NYU, Prof. Dennis Shasha) · Job-Matching-Agentic (WSU, Dr. Parteek Kumar) · Odyssey / DataFusion cost modelling (Univ. of Edinburgh) <!--· ScientficPerplexity (UBC, Prof. L.A.K.S.)-->
 
 ---
 
@@ -39,7 +39,7 @@
 | **Building** | macOS apps & LLM triage pipelines at Apple |
 | **Shipping upstream** | 43+ merged PRs in 2026 — ragflow · dify · dify-sandbox · dify-official-plugins · langfuse · ndnd · on pace for 100+ by EOY |
 | **Exploring** | RAGFlow · LangGraph · Dify · SigNoz · Helicone · LiteLLM · Ragas · Qdrant · Infinity |
-| **Research** | CustomNerd framework (NYU, manuscript in progress) · Job-Matching-Agentic (WSU) · Odyssey / DataFusion cost modelling (Edinburgh) · ScientficPerplexity (UBC, onboarding) |
+| **Research** | CustomNerd framework (NYU, manuscript in progress) · Job-Matching-Agentic (WSU) · Odyssey / DataFusion cost modelling (Edinburgh) <!--· ScientficPerplexity (UBC, onboarding)--> |
 
 ---
 
@@ -62,7 +62,7 @@
 | **LLM observability** | Contributions and forks in `langfuse`, `helicone`, `neatlogs`, `signoz`. Watching where OTel-native LLM tracing goes next — likely landing eval/feedback primitives. |
 | **Vector & AI-native DBs** | Forking and reading `qdrant-client`, `infinity`, `ragas`. Ragas-style evaluation harnesses for CustomNerd's research outputs. |
 | **Protocols & mobility** | Shipping into `named-data/ndnd` (security/CRL) and other protocol work. 5G protocol testing at Apple keeps me close to ASN.1/UICC pain. |
-| **Research** | CustomNerd paper in progress (NYU, Prof. Dennis Shasha) · Job-Matching-Agentic platform maturing toward WSU submission · Odyssey cost-model work with Edinburgh continuing · ScientficPerplexity (UBC, Prof. L.A.K.S., 3-4yr commitment through 2027). |
+| **Research** | CustomNerd paper in progress (NYU, Prof. Dennis Shasha) · Job-Matching-Agentic platform maturing toward WSU submission · Odyssey cost-model work with Edinburgh continuing <!--· ScientficPerplexity (UBC, Prof. L.A.K.S., 3-4yr commitment through 2027)--> |
 
 <sub>On pace for **100+ merged PRs by end of 2026** and 2,500+ annual contributions. Always open to upstream issues, RFCs, and design reviews.</sub>
 
