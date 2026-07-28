@@ -130,7 +130,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=161B22)
 ![RAG](https://img.shields.io/badge/RAG-412991?style=flat-square&logo=openai&logoColor=white&labelColor=161B22)
 ![FAISS](https://img.shields.io/badge/FAISS-412991?style=flat-square&labelColor=161B22&color=E8C547)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white&labelColor=161B22)
 ![LiteLLM](https://img.shields.io/badge/LiteLLM-000000?style=flat-square&labelColor=161B22)
 
 </td>
