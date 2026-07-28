@@ -24,11 +24,11 @@
 
 - **Software Engineer 2 at Apple** — macOS tooling for 600+ engineers, 5G protocol testing, LLM triage automation, and multi-agent telecom systems
 - **Impact** — 80% adoption on internal tools · 40% faster incident resolution · $720K annual savings
-- **Active upstream contributor** — **50+ merged PRs** across `infiniflow/ragflow`, `langgenius/dify`, `langgenius/dify-sandbox`, `langgenius/dify-official-plugins`, `named-data/ndnd`, `langfuse/langfuse`, and more
+- **Active upstream contributor** — **43+ merged PRs** across `infiniflow/ragflow`, `langgenius/dify`, `langgenius/dify-sandbox`, `langgenius/dify-official-plugins`, `langfuse/langfuse`, `named-data/ndnd`, and more
 - **Open-source footprint** — 84 repos · **1,895 contributions** in the last year · contributions to RAG, agent, observability, and mobility ecosystems
 - **B.E. CSE**, Thapar Institute — CGPA **9.71**, TIET Merit Scholarship (top **0.5%**)
 - **Previously** at PayPal · internships at Apple, Tata 1mg, Cisco, Licious, and YASH Technologies
-- **Research** — CustomNerd framework (NYU, Prof. Dennis Shasha) · Job-Matching-Agentic (WSU, Dr. Parteek Kumar) · Odyssey / DataFusion cost modelling (Univ. of Edinburgh)
+- **Research** — CustomNerd framework (NYU, Prof. Dennis Shasha) · Job-Matching-Agentic (WSU, Dr. Parteek Kumar) · Odyssey / DataFusion cost modelling (Univ. of Edinburgh) · ScientficPerplexity (UBC, Prof. L.A.K.S.)
 
 ---
 
@@ -37,9 +37,9 @@
 | Focus | Details |
 | --- | --- |
 | **Building** | macOS apps & LLM triage pipelines at Apple |
-| **Shipping upstream** | 50+ merged PRs in 2026 — ragflow · dify · dify-sandbox · dify-official-plugins · ndnd · on pace for 100+ by EOY |
-| **Exploring** | RAGFlow · LangGraph · LangChain · Dify · SigNoz · Helicone · LiteLLM · Ragas · Qdrant · Infinity · Namma Yatri |
-| **Research** | CustomNerd framework (NYU, manuscript in progress) · Job-Matching-Agentic (WSU) · Odyssey / DataFusion cost modelling (Edinburgh) |
+| **Shipping upstream** | 43+ merged PRs in 2026 — ragflow · dify · dify-sandbox · dify-official-plugins · langfuse · ndnd · on pace for 100+ by EOY |
+| **Exploring** | RAGFlow · LangGraph · Dify · SigNoz · Helicone · LiteLLM · Ragas · Qdrant · Infinity |
+| **Research** | CustomNerd framework (NYU, manuscript in progress) · Job-Matching-Agentic (WSU) · Odyssey / DataFusion cost modelling (Edinburgh) · ScientficPerplexity (UBC, onboarding) |
 
 ---
 
@@ -49,7 +49,7 @@
 
 <div align="center">
 
-[![Merged PRs](https://img.shields.io/badge/Merged%20PRs%202026-50%2B-21262D?style=flat-square&labelColor=161B22&logo=github&logoColor=E8C547)](https://github.com/pulls?q=author%3AHarsh23Kashyap+is%3Apr+is%3Aclosed)
+[![Merged PRs](https://img.shields.io/badge/Merged%20PRs%202026-43%2B-21262D?style=flat-square&labelColor=161B22&logo=github&logoColor=E8C547)](https://github.com/pulls?q=author%3AHarsh23Kashyap+is%3Apr+is%3Aclosed)
 [![Upstream Projects](https://img.shields.io/badge/Upstream%20Projects-5%2B-21262D?style=flat-square&labelColor=161B22&logo=github&logoColor=E8C547)](https://github.com/Harsh23Kashyap?tab=repositories&q=&type=source)
 [![Repositories](https://img.shields.io/badge/Repositories-84-21262D?style=flat-square&labelColor=161B22&logo=github&logoColor=E8C547)](https://github.com/Harsh23Kashyap?tab=repositories)
 
@@ -61,8 +61,8 @@
 | **Agent frameworks** | Active across `langgenius/dify`, `dify-sandbox`, `dify-official-plugins` — seccomp hardening, plugin auth flows, model-provider plumbing. Next: cost-tracing hooks and tenant-isolation edges. |
 | **LLM observability** | Contributions and forks in `langfuse`, `helicone`, `neatlogs`, `signoz`. Watching where OTel-native LLM tracing goes next — likely landing eval/feedback primitives. |
 | **Vector & AI-native DBs** | Forking and reading `qdrant-client`, `infinity`, `ragas`. Ragas-style evaluation harnesses for CustomNerd's research outputs. |
-| **Protocols & mobility** | Shipping into `named-data/ndnd` (security/CRL) and `nammayatri` (Haskell, open mobility). 5G protocol testing at Apple keeps me close to ASN.1/UICC pain. |
-| **Research** | CustomNerd paper in progress (NYU, Prof. Dennis Shasha) · Job-Matching-Agentic platform maturing toward WSU submission · Odyssey cost-model work with Edinburgh continuing. |
+| **Protocols & mobility** | Shipping into `named-data/ndnd` (security/CRL) and other protocol work. 5G protocol testing at Apple keeps me close to ASN.1/UICC pain. |
+| **Research** | CustomNerd paper in progress (NYU, Prof. Dennis Shasha) · Job-Matching-Agentic platform maturing toward WSU submission · Odyssey cost-model work with Edinburgh continuing · ScientficPerplexity (UBC, Prof. L.A.K.S., 3-4yr commitment through 2027). |
 
 <sub>On pace for **100+ merged PRs by end of 2026** and 2,500+ annual contributions. Always open to upstream issues, RFCs, and design reviews.</sub>
 
@@ -97,8 +97,10 @@
 
 | | Institution | Focus |
 | :---: | --- | --- |
-| <img src="https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/master/assets/logos/nyu.svg" height="44" alt="NYU" /> | **New York University** | CustomNerd (MDPI submission) · DietNerd · WirelessNerd · InvestorNerd |
+| <img src="https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/master/assets/logos/nyu.svg" height="44" alt="NYU" /> | **New York University** | CustomNerd · DietNerd · WirelessNerd · InvestorNerd · **OperationsNerd** · **HallucinationNerd** · **NewsNerd** |
 | <img src="https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/master/assets/logos/wsu-cougar.svg" height="44" alt="WSU" /> | **Washington State University** | Agentic job matching · semantic search · fairness analysis |
+|  | **University of British Columbia** | ScientficPerplexity — scientific literature query system (Prof. L.A.K.S.) |
+|  | **Thapar Institute** | HS Pannu — demosaicing research |
 
 </details>
 
@@ -211,13 +213,6 @@
 </a>
 </td>
 <td align="center" width="12.5%">
-<a href="https://github.com/Harsh23Kashyap/langchain">
-<img src="https://cdn.simpleicons.org/langchain/E8C547" height="32" alt="LangChain" /><br />
-<sub><b>LangChain</b></sub><br />
-<sub>Agent platform</sub>
-</a>
-</td>
-<td align="center" width="12.5%">
 <a href="https://github.com/Harsh23Kashyap/langgraph">
 <img src="https://cdn.simpleicons.org/langchain/E8C547" height="32" alt="LangGraph" /><br />
 <sub><b>LangGraph</b></sub><br />
@@ -321,13 +316,6 @@
 <sub>AI agent trace debugging</sub>
 </a>
 </td>
-<td align="center" width="20%">
-<a href="https://github.com/Harsh23Kashyap/nammayatri">
-<img src="https://cdn.simpleicons.org/haskell/E8C547" height="40" alt="Namma Yatri" /><br />
-<sub><b>Namma Yatri</b></sub><br />
-<sub>Open mobility platform</sub>
-</a>
-</td>
 </tr>
 </table>
 
@@ -373,7 +361,7 @@
 
 <div align="center">
 
-[![OSS PRs 2026](https://img.shields.io/badge/OSS%20PRs%202026-50%2B%20Merged-21262D?style=flat-square&labelColor=161B22&logo=github&logoColor=E8C547)](#where-im-heading)
+[![OSS PRs 2026](https://img.shields.io/badge/OSS%20PRs%202026-43%2B%20Merged-21262D?style=flat-square&labelColor=161B22&logo=github&logoColor=E8C547)](#where-im-heading)
 [![Contributions YTD](https://img.shields.io/badge/Contributions%20(2025--26)-1%2C895-21262D?style=flat-square&labelColor=161B22&logo=github&logoColor=E8C547)](https://github.com/Harsh23Kashyap)
 [![IICC](https://img.shields.io/badge/IICC%20(AICTE)-89th%20%2F%20100K-21262D?style=flat-square&labelColor=161B22)](https://harshkashyapportfolio.netlify.app/)
 [![Innovation Deck](https://img.shields.io/badge/Apple%20Innovation%20Deck-350%2B%20Submissions-21262D?style=flat-square&labelColor=161B22)](https://harshkashyapportfolio.netlify.app/)
