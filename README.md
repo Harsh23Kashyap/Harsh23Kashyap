@@ -97,9 +97,9 @@
 
 | | Institution | Focus |
 | :---: | --- | --- |
-| <img src="https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/master/assets/logos/nyu.svg" height="44" alt="NYU" /> | **New York University** | CustomNerd · DietNerd · WirelessNerd · InvestorNerd · **OperationsNerd** · **HallucinationNerd** · **NewsNerd** |
+| <img src="https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/master/assets/logos/nyu.svg" height="44" alt="NYU" /> | **New York University** | CustomNerd · DietNerd · WirelessNerd · InvestorNerd · OperationsNerd · HallucinationNerd · NewsNerd |
 | <img src="https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/master/assets/logos/wsu-cougar.svg" height="44" alt="WSU" /> | **Washington State University** | Agentic job matching · semantic search · fairness analysis |
-|  | **University of British Columbia** | ScientficPerplexity — scientific literature query system (Prof. L.A.K.S.) |
+| <img src="https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/master/assets/logos/ubc.png" height="44" alt="UBC" /> | **University of British Columbia** | ScientficPerplexity — scientific literature query system (Prof. L.A.K.S.) |
 |  | **Thapar Institute** | HS Pannu — demosaicing research |
 
 </details>
