@@ -74,8 +74,8 @@
 
 | | Company | Role | Period |
 | :---: | --- | --- | --- |
-| <img src="https://cdn.simpleicons.org/apple/E8C547" height="40" alt="Apple" /> | **Apple** | Software Engineer 2 | Dec 2023 – Present |
-| <img src="https://cdn.simpleicons.org/paypal/E8C547" height="40" alt="PayPal" /> | **PayPal** | Software Engineer | Jul 2023 – Oct 2023 |
+| <img src="https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/master/assets/logos/apple.png" height="40" alt="Apple" /> | **Apple** | Software Engineer 2 | Dec 2023 – Present |
+| <img src="https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/master/assets/logos/paypal.png" height="40" alt="PayPal" /> | **PayPal** | Software Engineer | Jul 2023 – Oct 2023 |
 
 <details>
 <summary><b>Internships</b></summary>
@@ -83,7 +83,7 @@
 
 | | Company | Role | Period |
 | :---: | --- | --- | --- |
-| <img src="https://cdn.simpleicons.org/apple/E8C547" height="40" alt="Apple" /> | **Apple** | Software Developer Engineering Intern | Jan 2023 – Jun 2023 |
+| <img src="https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/master/assets/logos/apple.png" height="40" alt="Apple" /> | **Apple** | Software Developer Engineering Intern | Jan 2023 – Jun 2023 |
 | <img src="https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/master/assets/logos/tata-1mg.svg" height="40" alt="Tata 1mg" /> | **Tata 1mg** | Engineering Intern | Oct 2022 – Nov 2022 |
 | <img src="https://cdn.simpleicons.org/cisco/E8C547" height="40" alt="Cisco" /> | **Cisco** | Technical Undergraduate Intern | Jun 2022 – Jul 2022 |
 | <img src="https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/master/assets/logos/licious.svg" height="40" alt="Licious" /> | **Licious** | Software Developer Intern | Jan 2022 – May 2022 |
@@ -101,7 +101,7 @@
 | <img src="https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/master/assets/logos/wsu-cougar.svg" height="44" alt="WSU" /> | **Washington State University** | Agentic job matching · semantic search · fairness analysis |
 | <img src="https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/master/assets/logos/ucla.png" height="44" alt="UCLA" /> | **University of California, Los Angeles** | NDN (Named Data Networking) · Ownly |
 | <img src="https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/master/assets/logos/edinburgh.png" height="44" alt="Edinburgh" /> | **University of Edinburgh** | Odyssey / DataFusion cost model (Prof. Boris Grot) |
-|  | **Thapar Institute** | HS Pannu — demosaicing research |
+| <img src="https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/master/assets/logos/thapar.png" height="44" alt="Thapar" /> | **Thapar Institute** | HS Pannu — demosaicing research |
 <!--
 | <img src="https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/master/assets/logos/ubc.png" height="44" alt="UBC" /> | **University of British Columbia** | ScientficPerplexity — scientific literature query system (Prof. L.A.K.S.) |
 -->
@@ -189,14 +189,14 @@
 <tr>
 <td align="center" width="12.5%">
 <a href="https://github.com/Harsh23Kashyap/ragflow">
-<img src="https://cdn.simpleicons.org/python/E8C547" height="32" alt="RAGFlow" /><br />
+<img src="https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/master/assets/logos/ragflow.png" height="32" alt="RAGFlow" /><br />
 <sub><b>RAGFlow</b></sub><br />
 <sub>RAG engine</sub>
 </a>
 </td>
 <td align="center" width="12.5%">
 <a href="https://github.com/Harsh23Kashyap/dify">
-<img src="https://cdn.simpleicons.org/typescript/E8C547" height="32" alt="Dify" /><br />
+<img src="https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/master/assets/logos/dify.png" height="32" alt="Dify" /><br />
 <sub><b>Dify</b></sub><br />
 <sub>Agentic workflows</sub>
 </a>
