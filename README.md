@@ -28,7 +28,7 @@
 - **Open-source footprint** — 84 repos · **1,895 contributions** in the last year · contributions to RAG, agent, observability, and mobility ecosystems
 - **B.E. CSE**, Thapar Institute — CGPA **9.71**, TIET Merit Scholarship (top **0.5%**)
 - **Previously** at PayPal · internships at Apple, Tata 1mg, Cisco, Licious, and YASH Technologies
-- **Research** — CustomNerd framework (NYU, Prof. Dennis Shasha) · Job-Matching-Agentic (WSU, Dr. Parteek Kumar) · Odyssey / DataFusion cost modelling (Univ. of Edinburgh) <!--· ScientficPerplexity (UBC, Prof. L.A.K.S.)-->
+- **Research** — CustomNerd framework (NYU, Prof. Dennis Shasha) · Job-Matching-Agentic (WSU, Dr. Parteek Kumar) · Odyssey / DataFusion cost modelling (Univ. of Edinburgh)
 
 ---
 
@@ -203,25 +203,26 @@
 </td>
 <td align="center" width="12.5%">
 <a href="https://github.com/Harsh23Kashyap/dify-sandbox">
-<img src="https://cdn.simpleicons.org/go/E8C547" height="32" alt="dify-sandbox" /><br />
+<img src="https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/master/assets/logos/dify.png" height="32" alt="dify-sandbox" /><br />
 <sub><b>dify-sandbox</b></sub><br />
 <sub>Code execution</sub>
 </a>
 </td>
 <td align="center" width="12.5%">
 <a href="https://github.com/Harsh23Kashyap/dify-official-plugins">
-<img src="https://cdn.simpleicons.org/python/E8C547" height="32" alt="dify-official-plugins" /><br />
+<img src="https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/master/assets/logos/dify.png" height="32" alt="dify-official-plugins" /><br />
 <sub><b>dify plugins</b></sub><br />
 <sub>Plugin ecosystem</sub>
 </a>
 </td>
 <td align="center" width="12.5%">
 <a href="https://github.com/Harsh23Kashyap/langgraph">
-<img src="https://cdn.simpleicons.org/langchain/E8C547" height="32" alt="LangGraph" /><br />
+<img src="https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/master/assets/logos/langgraph.png" height="32" alt="LangGraph" /><br />
 <sub><b>LangGraph</b></sub><br />
 <sub>Resilient agents</sub>
 </a>
 </td>
+<!-- LiteLLM cell commented out — 0 merged PRs to upstream as of 2026-07-28
 <td align="center" width="12.5%">
 <a href="https://github.com/Harsh23Kashyap/litellm">
 <img src="https://cdn.simpleicons.org/python/E8C547" height="32" alt="LiteLLM" /><br />
@@ -229,6 +230,8 @@
 <sub>100+ LLM gateway</sub>
 </a>
 </td>
+-->
+<!-- Ragas cell commented out — 0 merged PRs to upstream as of 2026-07-28
 <td align="center" width="12.5%">
 <a href="https://github.com/Harsh23Kashyap/ragas">
 <img src="https://cdn.simpleicons.org/python/E8C547" height="32" alt="Ragas" /><br />
@@ -236,8 +239,10 @@
 <sub>LLM evals</sub>
 </a>
 </td>
+-->
 </tr>
 <tr>
+<!-- Qdrant cell commented out — 0 merged PRs to upstream as of 2026-07-28
 <td align="center" width="12.5%">
 <a href="https://github.com/Harsh23Kashyap/qdrant-client">
 <img src="https://cdn.simpleicons.org/python/E8C547" height="32" alt="Qdrant" /><br />
@@ -245,6 +250,7 @@
 <sub>Vector search</sub>
 </a>
 </td>
+-->
 <td align="center" width="12.5%">
 <a href="https://github.com/Harsh23Kashyap/infinity">
 <img src="https://cdn.simpleicons.org/cplusplus/E8C547" height="32" alt="Infinity" /><br />
@@ -252,6 +258,7 @@
 <sub>AI-native DB</sub>
 </a>
 </td>
+<!-- Nao cell commented out — 0 merged PRs to upstream as of 2026-07-28
 <td align="center" width="12.5%">
 <a href="https://github.com/Harsh23Kashyap/nao">
 <img src="https://cdn.simpleicons.org/typescript/E8C547" height="32" alt="Nao" /><br />
@@ -259,6 +266,8 @@
 <sub>Analytics agent</sub>
 </a>
 </td>
+-->
+<!-- Neatlogs cell commented out — 0 merged PRs to upstream as of 2026-07-28
 <td align="center" width="12.5%">
 <a href="https://github.com/Harsh23Kashyap/neatlogs">
 <img src="https://cdn.simpleicons.org/python/E8C547" height="32" alt="Neatlogs" /><br />
@@ -266,6 +275,8 @@
 <sub>Agent traces</sub>
 </a>
 </td>
+-->
+<!-- Sourcebot cell commented out — 0 merged PRs to upstream as of 2026-07-28
 <td align="center" width="12.5%">
 <a href="https://github.com/Harsh23Kashyap/sourcebot-fork-test">
 <img src="https://cdn.simpleicons.org/typescript/E8C547" height="32" alt="Sourcebot" /><br />
@@ -273,6 +284,7 @@
 <sub>Codebase search</sub>
 </a>
 </td>
+-->
 <td align="center" width="12.5%">
 <a href="https://github.com/Harsh23Kashyap/ndnd">
 <img src="https://cdn.simpleicons.org/go/E8C547" height="32" alt="ndnd" /><br />
@@ -312,6 +324,7 @@
 <sub>LLM observability</sub>
 </a>
 </td>
+<!-- Neatlogs cell commented out — 0 merged PRs to upstream as of 2026-07-28
 <td align="center" width="20%">
 <a href="https://github.com/Harsh23Kashyap/neatlogs">
 <img src="https://cdn.simpleicons.org/python/E8C547" height="40" alt="Neatlogs" /><br />
@@ -319,6 +332,7 @@
 <sub>AI agent trace debugging</sub>
 </a>
 </td>
+-->
 </tr>
 </table>
 
