@@ -25,7 +25,7 @@
 - **Software Engineer 2 at Apple** — macOS tooling for 600+ engineers, 5G protocol testing, LLM triage automation, and multi-agent telecom systems
 - **Impact** — 80% adoption on internal tools · 40% faster incident resolution · $720K annual savings
 - **Active upstream contributor** — **67+ merged PRs** across `infiniflow/ragflow`, `langgenius/dify`, `langgenius/dify-sandbox`, `langgenius/dify-official-plugins`, `langfuse/langfuse`, `BerriAI/litellm`, `named-data/ndnd`, and more
-- **Open-source footprint** — 84 repos · **1,895 contributions** in the last year · contributions to RAG, agent, observability, and mobility ecosystems
+- **Open-source footprint** — **75+** public repos · **2,241 contributions** in the last year · contributions to RAG, agent, observability, and mobility ecosystems
 - **B.E. CSE**, Thapar Institute — CGPA **9.71**, TIET Merit Scholarship (top **0.5%**)
 - **Previously** at PayPal · internships at Apple, Tata 1mg, Cisco, Licious, and YASH Technologies
 - **Research** — CustomNerd framework (NYU, Prof. Dennis Shasha) · Job-Matching-Agentic (WSU, Dr. Parteek Kumar) · Odyssey / DataFusion cost modelling (Univ. of Edinburgh)
