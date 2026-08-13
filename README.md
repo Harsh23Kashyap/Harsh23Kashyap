@@ -24,7 +24,7 @@
 
 - **Software Engineer 2 at Apple** — macOS tooling for 600+ engineers, 5G protocol testing, LLM triage automation, and multi-agent telecom systems
 - **Impact** — 80% adoption on internal tools · 40% faster incident resolution · $720K annual savings
-- **Active upstream contributor** — **43+ merged PRs** across `infiniflow/ragflow`, `langgenius/dify`, `langgenius/dify-sandbox`, `langgenius/dify-official-plugins`, `langfuse/langfuse`, `named-data/ndnd`, and more
+- **Active upstream contributor** — **67+ merged PRs** across `infiniflow/ragflow`, `langgenius/dify`, `langgenius/dify-sandbox`, `langgenius/dify-official-plugins`, `langfuse/langfuse`, `BerriAI/litellm`, `named-data/ndnd`, and more
 - **Open-source footprint** — 84 repos · **1,895 contributions** in the last year · contributions to RAG, agent, observability, and mobility ecosystems
 - **B.E. CSE**, Thapar Institute — CGPA **9.71**, TIET Merit Scholarship (top **0.5%**)
 - **Previously** at PayPal · internships at Apple, Tata 1mg, Cisco, Licious, and YASH Technologies
@@ -37,7 +37,7 @@
 | Focus | Details |
 | --- | --- |
 | **Building** | macOS apps & LLM triage pipelines at Apple |
-| **Shipping upstream** | 43+ merged PRs in 2026 — ragflow · dify · dify-sandbox · dify-official-plugins · langfuse · ndnd · on pace for 100+ by EOY |
+| **Shipping upstream** | 67+ merged PRs in 2026 — ragflow · dify · dify-sandbox · dify-official-plugins · langfuse · litellm · ndnd · on pace for 100+ by EOY |
 | **Exploring** | RAGFlow · LangGraph · Dify · SigNoz · Helicone · LiteLLM · Ragas · Qdrant · Infinity |
 | **Research** | CustomNerd framework (NYU, manuscript in progress) · Job-Matching-Agentic (WSU) · Odyssey / DataFusion cost modelling (Edinburgh) <!--· ScientficPerplexity (UBC, onboarding)--> |
 
@@ -49,7 +49,7 @@
 
 <div align="center">
 
-[![Merged PRs](https://img.shields.io/badge/Merged%20PRs%202026-43%2B-21262D?style=flat-square&labelColor=161B22&logo=github&logoColor=E8C547)](https://github.com/pulls?q=author%3AHarsh23Kashyap+is%3Apr+is%3Aclosed)
+[![Merged PRs](https://img.shields.io/badge/Merged%20PRs%202026-67%2B-21262D?style=flat-square&labelColor=161B22&logo=github&logoColor=E8C547)](https://github.com/pulls?q=author%3AHarsh23Kashyap+is%3Apr+is%3Aclosed)
 [![Upstream Projects](https://img.shields.io/badge/Upstream%20Projects-5%2B-21262D?style=flat-square&labelColor=161B22&logo=github&logoColor=E8C547)](https://github.com/Harsh23Kashyap?tab=repositories&q=&type=source)
 [![Repositories](https://img.shields.io/badge/Repositories-84-21262D?style=flat-square&labelColor=161B22&logo=github&logoColor=E8C547)](https://github.com/Harsh23Kashyap?tab=repositories)
 
@@ -222,15 +222,13 @@
 <sub>Resilient agents</sub>
 </a>
 </td>
-<!-- LiteLLM cell commented out — 0 merged PRs to upstream as of 2026-07-28
 <td align="center" width="12.5%">
 <a href="https://github.com/Harsh23Kashyap/litellm">
-<img src="https://cdn.simpleicons.org/python/E8C547" height="32" alt="LiteLLM" /><br />
+<img src="https://cdn.simpleicons.org/litellm/E8C547" height="32" alt="LiteLLM" /><br />
 <sub><b>LiteLLM</b></sub><br />
 <sub>100+ LLM gateway</sub>
 </a>
 </td>
--->
 <!-- Ragas cell commented out — 0 merged PRs to upstream as of 2026-07-28
 <td align="center" width="12.5%">
 <a href="https://github.com/Harsh23Kashyap/ragas">
@@ -378,7 +376,7 @@
 
 <div align="center">
 
-[![OSS PRs 2026](https://img.shields.io/badge/OSS%20PRs%202026-43%2B%20Merged-21262D?style=flat-square&labelColor=161B22&logo=github&logoColor=E8C547)](#where-im-heading)
+[![OSS PRs 2026](https://img.shields.io/badge/OSS%20PRs%202026-67%2B%20Merged-21262D?style=flat-square&labelColor=161B22&logo=github&logoColor=E8C547)](#where-im-heading)
 [![Contributions YTD](https://img.shields.io/badge/Contributions%20(2025--26)-1%2C895-21262D?style=flat-square&labelColor=161B22&logo=github&logoColor=E8C547)](https://github.com/Harsh23Kashyap)
 [![IICC](https://img.shields.io/badge/IICC%20(AICTE)-89th%20%2F%20100K-21262D?style=flat-square&labelColor=161B22)](https://harshkashyapportfolio.netlify.app/)
 [![Innovation Deck](https://img.shields.io/badge/Apple%20Innovation%20Deck-350%2B%20Submissions-21262D?style=flat-square&labelColor=161B22)](https://harshkashyapportfolio.netlify.app/)
