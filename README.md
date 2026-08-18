@@ -38,7 +38,7 @@
 | --- | --- |
 | **Building** | macOS apps & LLM triage pipelines at Apple |
 | **Shipping upstream** | 67+ merged PRs in 2026 — ragflow · dify · dify-sandbox · dify-official-plugins · langfuse · litellm · ndnd · on pace for 100+ by EOY |
-| **Exploring** | RAGFlow · LangGraph · Dify · SigNoz · Helicone · LiteLLM · Ragas · Qdrant · Infinity |
+| **Exploring** | RAGFlow · LangGraph · Dify · LiteLLM · Ragas · Qdrant · Infinity |
 | **Research** | CustomNerd framework (NYU, manuscript in progress) · Job-Matching-Agentic (WSU) · Odyssey / DataFusion cost modelling (Edinburgh) <!--· ScientficPerplexity (UBC, onboarding)--> |
 
 ---
@@ -59,7 +59,7 @@
 | --- | --- |
 | **RAG infra** | Going deeper into `infiniflow/ragflow` — agent inputs, deepdoc parsing, GMM clustering, retrieval quality edge cases. Likely moving toward plugin/plugin-API surface next. |
 | **Agent frameworks** | Active across `langgenius/dify`, `dify-sandbox`, `dify-official-plugins` — seccomp hardening, plugin auth flows, model-provider plumbing. Next: cost-tracing hooks and tenant-isolation edges. |
-| **LLM observability** | Contributions and forks in `langfuse`, `helicone`, `neatlogs`, `signoz`. Watching where OTel-native LLM tracing goes next — likely landing eval/feedback primitives. |
+| **LLM observability** | Contributions and forks in `langfuse`, `neatlogs`. Watching where OTel-native LLM tracing goes next — likely landing eval/feedback primitives. |
 | **Vector & AI-native DBs** | Forking and reading `qdrant-client`, `infinity`, `ragas`. Ragas-style evaluation harnesses for CustomNerd's research outputs. |
 | **Protocols & mobility** | Shipping into `named-data/ndnd` (security/CRL) and other protocol work. 5G protocol testing at Apple keeps me close to ASN.1/UICC pain. |
 | **Research** | CustomNerd paper in progress (NYU, Prof. Dennis Shasha) · Job-Matching-Agentic platform maturing toward WSU submission · Odyssey cost-model work with Edinburgh continuing <!--· ScientficPerplexity (UBC, Prof. L.A.K.S., 3-4yr commitment through 2027)--> |
@@ -274,15 +274,6 @@
 </a>
 </td>
 -->
-<!-- Sourcebot cell commented out — 0 merged PRs to upstream as of 2026-07-28
-<td align="center" width="12.5%">
-<a href="https://github.com/Harsh23Kashyap/sourcebot-fork-test">
-<img src="https://cdn.simpleicons.org/typescript/E8C547" height="32" alt="Sourcebot" /><br />
-<sub><b>Sourcebot</b></sub><br />
-<sub>Codebase search</sub>
-</a>
-</td>
--->
 <td align="center" width="12.5%">
 <a href="https://github.com/Harsh23Kashyap/ndnd">
 <img src="https://cdn.simpleicons.org/go/E8C547" height="32" alt="ndnd" /><br />
@@ -302,24 +293,10 @@
 <table>
 <tr>
 <td align="center" width="20%">
-<a href="https://github.com/Harsh23Kashyap/signoz">
-<img src="https://cdn.simpleicons.org/opentelemetry/E8C547" height="40" alt="SigNoz" /><br />
-<sub><b>SigNoz</b></sub><br />
-<sub>OTel logs, traces, metrics</sub>
-</a>
-</td>
-<td align="center" width="20%">
 <a href="https://github.com/Harsh23Kashyap/langfuse">
 <img src="https://cdn.simpleicons.org/typescript/E8C547" height="40" alt="Langfuse" /><br />
 <sub><b>Langfuse</b></sub><br />
 <sub>LLM evals & observability</sub>
-</a>
-</td>
-<td align="center" width="20%">
-<a href="https://github.com/Harsh23Kashyap/helicone">
-<img src="https://cdn.simpleicons.org/typescript/E8C547" height="40" alt="Helicone" /><br />
-<sub><b>Helicone</b></sub><br />
-<sub>LLM observability</sub>
 </a>
 </td>
 <!-- Neatlogs cell commented out — 0 merged PRs to upstream as of 2026-07-28
