@@ -197,23 +197,14 @@
 <td align="center" width="12.5%">
 <a href="https://github.com/Harsh23Kashyap/dify">
 <img src="https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/master/assets/logos/dify.png" height="32" alt="Dify" /><br />
-<sub><b>Dify</b></sub><br />
-<sub>Agentic workflows</sub>
+<sub><b>Dify</b></sub>
 </a>
+<br />
+<sub><a href="https://github.com/Harsh23Kashyap/dify-sandbox">sandbox</a> · <a href="https://github.com/Harsh23Kashyap/dify-official-plugins">plugins</a></sub>
 </td>
 <td align="center" width="12.5%">
-<a href="https://github.com/Harsh23Kashyap/dify-sandbox">
-<img src="https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/master/assets/logos/dify.png" height="32" alt="dify-sandbox" /><br />
-<sub><b>dify-sandbox</b></sub><br />
-<sub>Code execution</sub>
-</a>
 </td>
 <td align="center" width="12.5%">
-<a href="https://github.com/Harsh23Kashyap/dify-official-plugins">
-<img src="https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/master/assets/logos/dify.png" height="32" alt="dify-official-plugins" /><br />
-<sub><b>dify plugins</b></sub><br />
-<sub>Plugin ecosystem</sub>
-</a>
 </td>
 <td align="center" width="12.5%">
 <a href="https://github.com/Harsh23Kashyap/langgraph">
