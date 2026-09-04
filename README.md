@@ -24,7 +24,7 @@
 
 - **Software Engineer 2 at Apple** — macOS tooling for 600+ engineers, 5G protocol testing, LLM triage automation, and multi-agent telecom systems
 - **Impact** — 80% adoption on internal tools · 40% faster incident resolution · $720K annual savings
-- **Active upstream contributor** — **75+ merged PRs** across `infiniflow/ragflow`, `langgenius/dify`, `langgenius/dify-sandbox`, `langgenius/dify-official-plugins`, `langfuse/langfuse`, `named-data/ndnd`, and more
+- **Active upstream contributor** — **100+ merged PRs** across `infiniflow/ragflow`, `langgenius/dify`, `langgenius/dify-sandbox`, `langgenius/dify-official-plugins`, `langfuse/langfuse`, `named-data/ndnd`, `Harsh23Kashyap/infinity`, `Harsh23Kashyap/customnerd`, `Harsh23Kashyap/Machine-Learning`, `Harsh23Kashyap/skills`, and forks of `AmaanIlahi/OperationsNerd` & `Taranum01/HallucinationNerd`
 - **Open-source footprint** — **75+** public repos · **2,241 contributions** in the last year · contributions to RAG, agent, observability, and mobility ecosystems
 - **B.E. CSE**, Thapar Institute — CGPA **9.71**, TIET Merit Scholarship (top **0.5%**)
 - **Previously** at PayPal · internships at Apple, Tata 1mg, Cisco, Licious, and YASH Technologies
@@ -37,7 +37,7 @@
 | Focus | Details |
 | --- | --- |
 | **Building** | macOS apps & LLM triage pipelines at Apple |
-| **Shipping upstream** | 75+ merged PRs in 2026 — ragflow · dify · dify-sandbox · dify-official-plugins · langfuse · ndnd · on pace for 100+ by EOY |
+| **Shipping upstream** | 100+ merged PRs in 2026 — ragflow · dify · dify-sandbox · dify-official-plugins · langfuse · ndnd · on pace for 150+ by EOY |
 | **Exploring** | RAGFlow · LangGraph · Dify · LiteLLM · Ragas · Qdrant · Infinity |
 | **Research** | CustomNerd framework (NYU, manuscript in progress) · Job-Matching-Agentic (WSU) · Odyssey / DataFusion cost modelling (Edinburgh) <!--· ScientficPerplexity (UBC, onboarding)--> |
 
@@ -49,7 +49,7 @@
 
 <div align="center">
 
-[![Merged PRs](https://img.shields.io/badge/Merged%20PRs%202026-75%2B-21262D?style=flat-square&labelColor=161B22&logo=github&logoColor=E8C547)](https://github.com/pulls?q=author%3AHarsh23Kashyap+is%3Apr+is%3Aclosed)
+[![Merged PRs](https://img.shields.io/badge/Merged%20PRs%202026-100%2B-21262D?style=flat-square&labelColor=161B22&logo=github&logoColor=E8C547)](https://github.com/pulls?q=author%3AHarsh23Kashyap+is%3Apr+is%3Aclosed)
 [![Upstream Projects](https://img.shields.io/badge/Upstream%20Projects-5%2B-21262D?style=flat-square&labelColor=161B22&logo=github&logoColor=E8C547)](https://github.com/Harsh23Kashyap?tab=repositories&q=&type=source)
 [![Repositories](https://img.shields.io/badge/Repositories-84-21262D?style=flat-square&labelColor=161B22&logo=github&logoColor=E8C547)](https://github.com/Harsh23Kashyap?tab=repositories)
 
@@ -64,7 +64,7 @@
 | **Protocols & mobility** | Shipping into `named-data/ndnd` (security/CRL) and other protocol work. 5G protocol testing at Apple keeps me close to ASN.1/UICC pain. |
 | **Research** | CustomNerd paper in progress (NYU, Prof. Dennis Shasha) · Job-Matching-Agentic platform maturing toward WSU submission · Odyssey cost-model work with Edinburgh continuing <!--· ScientficPerplexity (UBC, Prof. L.A.K.S., 3-4yr commitment through 2027)--> |
 
-<sub>On pace for **100+ merged PRs by end of 2026** and 2,500+ annual contributions. Always open to upstream issues, RFCs, and design reviews.</sub>
+<sub>100+ merged PRs achieved in 2026; on pace for 150+ by EOY. 2,500+ annual contributions. Always open to upstream issues, RFCs, and design reviews.</sub>
 
 ---
 
