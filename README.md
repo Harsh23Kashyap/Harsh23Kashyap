@@ -10,7 +10,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-21262D?style=flat-square&labelColor=161B22&logo=netlify&logoColor=E8C547)](https://harshkashyapportfolio.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-21262D?style=flat-square&labelColor=161B22&logo=linkedin&logoColor=E8C547)](https://www.linkedin.com/in/harsh-kashyap/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-1600%2B%20Solved-21262D?style=flat-square&labelColor=161B22&logo=leetcode&logoColor=E8C547)](https://leetcode.com/Harsh23Kashyap/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-1700%2B%20Solved-21262D?style=flat-square&labelColor=161B22&logo=leetcode&logoColor=E8C547)](https://leetcode.com/Harsh23Kashyap/)
 [![Topmate](https://img.shields.io/badge/Topmate-300%2B%20Sessions-21262D?style=flat-square&labelColor=161B22&logo=googlemeet&logoColor=E8C547)](https://topmate.io/harsh_kashyap)
 [![Email](https://img.shields.io/badge/Email-Contact-21262D?style=flat-square&labelColor=161B22&logo=gmail&logoColor=E8C547)](mailto:harsh.kashyap2001@gmail.com)
 
@@ -25,7 +25,7 @@
 - **Software Engineer 2 at Apple** — macOS tooling for 600+ engineers, 5G protocol testing, LLM triage automation, and multi-agent telecom systems
 - **Impact** — 80% adoption on internal tools · 40% faster incident resolution · $720K annual savings
 - **Active upstream contributor** — **100+ merged PRs** across `infiniflow/ragflow`, `langgenius/dify`, `langgenius/dify-sandbox`, `langgenius/dify-official-plugins`, `langfuse/langfuse`, `named-data/ndnd`, `Harsh23Kashyap/infinity`, `Harsh23Kashyap/customnerd`, `Harsh23Kashyap/Machine-Learning`, `Harsh23Kashyap/skills`, and forks of `AmaanIlahi/OperationsNerd` & `Taranum01/HallucinationNerd`
-- **Open-source footprint** — **75+** public repos · **2,241 contributions** in the last year · contributions to RAG, agent, observability, and mobility ecosystems
+- **Open-source footprint** — **70+** public repos · **2,241 contributions** in the last year · contributions to RAG, agent, observability, and mobility ecosystems
 - **B.E. CSE**, Thapar Institute — CGPA **9.71**, TIET Merit Scholarship (top **0.5%**)
 - **Previously** at PayPal · internships at Apple, Tata 1mg, Cisco, Licious, and YASH Technologies
 - **Research** — CustomNerd framework (NYU, Prof. Dennis Shasha) · Job-Matching-Agentic (WSU, Prof. Parteek Bhatia) · Odyssey / DataFusion cost modelling (Univ. of Edinburgh)
@@ -37,8 +37,8 @@
 | Focus | Details |
 | --- | --- |
 | **Building** | macOS apps & LLM triage pipelines at Apple |
-| **Shipping upstream** | 100+ merged PRs in 2026 — ragflow · dify · dify-sandbox · dify-official-plugins · langfuse · ndnd · on pace for 150+ by EOY |
-| **Exploring** | RAGFlow · LangGraph · Dify · LiteLLM · Ragas · Qdrant · Infinity |
+| **Shipping upstream** | 100+ merged PRs in 2026 — ragflow · dify · dify-sandbox · dify-official-plugins · langfuse · ndnd · infinity · on pace for 150+ by EOY |
+| **Exploring** | RAGFlow · LangGraph · Dify · Infinity · Langfuse · Ragas · Qdrant |
 | **Research** | CustomNerd framework (NYU, manuscript in progress) · Job-Matching-Agentic (WSU) · Odyssey / DataFusion cost modelling (Edinburgh) <!--· ScientficPerplexity (UBC, onboarding)--> |
 
 ---
@@ -50,8 +50,8 @@
 <div align="center">
 
 [![Merged PRs](https://img.shields.io/badge/Merged%20PRs%202026-100%2B-21262D?style=flat-square&labelColor=161B22&logo=github&logoColor=E8C547)](https://github.com/pulls?q=author%3AHarsh23Kashyap+is%3Apr+is%3Aclosed)
-[![Upstream Projects](https://img.shields.io/badge/Upstream%20Projects-5%2B-21262D?style=flat-square&labelColor=161B22&logo=github&logoColor=E8C547)](https://github.com/Harsh23Kashyap?tab=repositories&q=&type=source)
-[![Repositories](https://img.shields.io/badge/Repositories-84-21262D?style=flat-square&labelColor=161B22&logo=github&logoColor=E8C547)](https://github.com/Harsh23Kashyap?tab=repositories)
+[![Upstream Projects](https://img.shields.io/badge/Upstream%20Projects-7%2B-21262D?style=flat-square&labelColor=161B22&logo=github&logoColor=E8C547)](https://github.com/Harsh23Kashyap?tab=repositories&q=&type=source)
+[![Repositories](https://img.shields.io/badge/Repositories-72-21262D?style=flat-square&labelColor=161B22&logo=github&logoColor=E8C547)](https://github.com/Harsh23Kashyap?tab=repositories)
 
 </div>
 
@@ -134,7 +134,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=161B22)
 ![RAG](https://img.shields.io/badge/RAG-412991?style=flat-square&logo=openai&logoColor=white&labelColor=161B22)
 ![FAISS](https://img.shields.io/badge/FAISS-412991?style=flat-square&labelColor=161B22&color=E8C547)
-![LiteLLM](https://img.shields.io/badge/LiteLLM-000000?style=flat-square&labelColor=161B22)
 
 </td>
 <td width="50%" valign="top">
@@ -338,7 +337,7 @@
 
 <div align="center">
 
-[![OSS PRs 2026](https://img.shields.io/badge/OSS%20PRs%202026-75%2B%20Merged-21262D?style=flat-square&labelColor=161B22&logo=github&logoColor=E8C547)](#where-im-heading)
+[![OSS PRs 2026](https://img.shields.io/badge/OSS%20PRs%202026-100%2B%20Merged-21262D?style=flat-square&labelColor=161B22&logo=github&logoColor=E8C547)](#where-im-heading)
 [![Contributions YTD](https://img.shields.io/badge/Contributions%20(2025--26)-1%2C895-21262D?style=flat-square&labelColor=161B22&logo=github&logoColor=E8C547)](https://github.com/Harsh23Kashyap)
 [![IICC](https://img.shields.io/badge/IICC%20(AICTE)-89th%20%2F%20100K-21262D?style=flat-square&labelColor=161B22)](https://harshkashyapportfolio.netlify.app/)
 [![Innovation Deck](https://img.shields.io/badge/Apple%20Innovation%20Deck-350%2B%20Submissions-21262D?style=flat-square&labelColor=161B22)](https://harshkashyapportfolio.netlify.app/)
