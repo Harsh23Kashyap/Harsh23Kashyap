@@ -11,7 +11,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-21262D?style=flat-square&labelColor=161B22&logo=netlify&logoColor=E8C547)](https://harshkashyapportfolio.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-21262D?style=flat-square&labelColor=161B22&logo=linkedin&logoColor=E8C547)](https://www.linkedin.com/in/harsh-kashyap/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-1700%2B%20Solved-21262D?style=flat-square&labelColor=161B22&logo=leetcode&logoColor=E8C547)](https://leetcode.com/Harsh23Kashyap/)
-[![Topmate](https://img.shields.io/badge/Topmate-300%2B%20Sessions-21262D?style=flat-square&labelColor=161B22&logo=googlemeet&logoColor=E8C547)](https://topmate.io/harsh_kashyap)
+[![Topmate](https://img.shields.io/badge/Topmate-450%2B%20Sessions-21262D?style=flat-square&labelColor=161B22&logo=googlemeet&logoColor=E8C547)](https://topmate.io/harsh_kashyap)
 [![Email](https://img.shields.io/badge/Email-Contact-21262D?style=flat-square&labelColor=161B22&logo=gmail&logoColor=E8C547)](mailto:harsh.kashyap2001@gmail.com)
 
 </div>
@@ -27,6 +27,7 @@
 - **Active upstream contributor** — **100+ merged PRs** across `infiniflow/ragflow`, `langgenius/dify`, `langgenius/dify-sandbox`, `langgenius/dify-official-plugins`, `langfuse/langfuse`, `named-data/ndnd`, `Harsh23Kashyap/infinity`, `Harsh23Kashyap/customnerd`, `Harsh23Kashyap/Machine-Learning`, `Harsh23Kashyap/skills`, and forks of `AmaanIlahi/OperationsNerd` & `Taranum01/HallucinationNerd`
 - **Open-source footprint** — **70+** public repos · **2,241 contributions** in the last year · contributions to RAG, agent, observability, and mobility ecosystems
 - **B.E. CSE**, Thapar Institute — CGPA **9.71**, TIET Merit Scholarship (top **0.5%**)
+- **Community reach** — 40k+ LinkedIn followers · 1,716 LeetCode problems (562 easy / 915 medium / 239 hard; contest rating 1,693) · 450+ Topmate sessions · 4.3/5 across 574 Topmate ratings
 - **Previously** at PayPal · internships at Apple, Tata 1mg, Cisco, Licious, and YASH Technologies
 - **Research** — CustomNerd framework (NYU, Prof. Dennis Shasha) · Job-Matching-Agentic (WSU, Prof. Parteek Bhatia) · Odyssey / DataFusion cost modelling (Univ. of Edinburgh)
 
