@@ -3,14 +3,14 @@
 </div>
 
 <div align="center">
-  <sub><b>Software Engineer @ Apple</b> · macOS tooling, 5G protocol testing & LLM agents · Bengaluru, India</sub>
+  <sub><b>Software Development Engineer II @ Amazon</b> · marketplace compliance, backend systems & LLM agents · Bengaluru, India</sub>
 </div>
 
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-21262D?style=flat-square&labelColor=161B22&logo=netlify&logoColor=E8C547)](https://harshkashyapportfolio.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-21262D?style=flat-square&labelColor=161B22&logo=linkedin&logoColor=E8C547)](https://www.linkedin.com/in/harsh-kashyap/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-1700%2B%20Solved-21262D?style=flat-square&labelColor=161B22&logo=leetcode&logoColor=E8C547)](https://leetcode.com/Harsh23Kashyap/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-1717%20Solved-21262D?style=flat-square&labelColor=161B22&logo=leetcode&logoColor=E8C547)](https://leetcode.com/u/Harsh23Kashyap/)
 [![Topmate](https://img.shields.io/badge/Topmate-450%2B%20Sessions-21262D?style=flat-square&labelColor=161B22&logo=googlemeet&logoColor=E8C547)](https://topmate.io/harsh_kashyap)
 [![Email](https://img.shields.io/badge/Email-Contact-21262D?style=flat-square&labelColor=161B22&logo=gmail&logoColor=E8C547)](mailto:harsh.kashyap2001@gmail.com)
 
@@ -22,14 +22,15 @@
 
 <img align="right" height="220" width="330" alt="Coding" src="https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/master/coding.gif" />
 
-- **Software Engineer 2 at Apple** — macOS tooling for 600+ engineers, 5G protocol testing, LLM triage automation, and multi-agent telecom systems
-- **Impact** — 80% adoption on internal tools · 40% faster incident resolution · $720K annual savings
-- **Active upstream contributor** — **100+ merged PRs** across `infiniflow/ragflow`, `langgenius/dify`, `langgenius/dify-sandbox`, `langgenius/dify-official-plugins`, `langfuse/langfuse`, `named-data/ndnd`, `Harsh23Kashyap/infinity`, `Harsh23Kashyap/customnerd`, `Harsh23Kashyap/Machine-Learning`, `Harsh23Kashyap/skills`, and forks of `AmaanIlahi/OperationsNerd` & `Taranum01/HallucinationNerd`
-- **Open-source footprint** — **70+** public repos · **2,241 contributions** in the last year · contributions to RAG, agent, observability, and mobility ecosystems
+- **Software Development Engineer II at Amazon**: working on Unified Compliance Intelligence for Marketplace using Bedrock, Claude/Sonnet, Java, Coral, and ECS Fargate
+- **Previously Software Engineer II at Apple**: macOS tooling for engineering teams, 5G protocol testing, LLM triage automation, and multi-agent telecom systems
+- **Impact**: 80% adoption on internal tools · 40% faster incident resolution · $720K annual savings
+- **Open-source engineering**: retrieval correctness, agent runtime hardening, plugin triggers, sandbox safety, observability, and protocol tooling across RAGFlow, Dify, Langfuse, NDN, Infinity, CustomNerd, and related systems
+- **Open-source footprint** — **70+** public repos · **140+ merged PRs** across `infiniflow/ragflow`, `langgenius/dify`, `langgenius/dify-sandbox`, `langgenius/dify-official-plugins`, `langfuse/langfuse`, `neatlogs/neatlogs`, `neatlogs/neatlogs-go`, `neatlogs/neatlogs-typescript`, `named-data/ndnd`, `deepset-ai/haystack`, `Harsh23Kashyap/infinity`, `Harsh23Kashyap/customnerd`, `Harsh23Kashyap/Machine-Learning`, `Harsh23Kashyap/skills`, and forks of `AmaanIlahi/OperationsNerd` & `Taranum01/HallucinationNerd` · **2,241 contributions** in the last year
 - **B.E. CSE**, Thapar Institute — CGPA **9.71**, TIET Merit Scholarship (top **0.5%**)
-- **Community reach** — 40k+ LinkedIn followers · 1,716 LeetCode problems (562 easy / 915 medium / 239 hard; contest rating 1,693) · 450+ Topmate sessions · 4.3/5 across 574 Topmate ratings
-- **Previously** at PayPal · internships at Apple, Tata 1mg, Cisco, Licious, and YASH Technologies
-- **Research** — CustomNerd framework (NYU, Prof. Dennis Shasha) · Job-Matching-Agentic (WSU, Prof. Parteek Bhatia) · Odyssey / DataFusion cost modelling (Univ. of Edinburgh)
+- **Community reach** — active LinkedIn and Topmate mentoring presence · 1,717 LeetCode problems (563 easy / 915 medium / 239 hard; contest rating around 1,693) · 450+ Topmate sessions · 4.3/5 public rating
+- Earlier full-time work at Apple and PayPal; internships at Apple, Tata 1mg, Cisco, Licious, and YASH Technologies
+- Research with NYU, WSU, UCLA, University of Edinburgh, UBC, and Thapar
 
 ---
 
@@ -37,10 +38,10 @@
 
 | Focus | Details |
 | --- | --- |
-| **Building** | macOS apps & LLM triage pipelines at Apple |
-| **Shipping upstream** | 100+ merged PRs in 2026 — ragflow · dify · dify-sandbox · dify-official-plugins · langfuse · ndnd · infinity · on pace for 150+ by EOY |
-| **Exploring** | RAGFlow · LangGraph · Dify · Infinity · Langfuse · Ragas · Qdrant |
-| **Research** | CustomNerd framework (NYU, manuscript in progress) · Job-Matching-Agentic (WSU) · Odyssey / DataFusion cost modelling (Edinburgh) <!--· ScientficPerplexity (UBC, onboarding)--> |
+| **Building** | Unified Compliance Intelligence for Amazon Marketplace |
+| **Open-source work** | Retrieval correctness · agent runtime hardening · plugin triggers · sandbox safety · observability · protocol tooling |
+| **Exploring** | RAGFlow · LangGraph · Dify · Infinity · Ragas · Qdrant |
+| **Research** | CustomNerd framework (NYU, accepted at MDPI Electronics) · JobMatch (JAAMAS, in preparation) · Odyssey / DataFusion cost modelling (Edinburgh) · ScientficPerplexity (UBC) |
 
 ---
 
@@ -50,22 +51,22 @@
 
 <div align="center">
 
-[![Merged PRs](https://img.shields.io/badge/Merged%20PRs%202026-100%2B-21262D?style=flat-square&labelColor=161B22&logo=github&logoColor=E8C547)](https://github.com/pulls?q=author%3AHarsh23Kashyap+is%3Apr+is%3Aclosed)
-[![Upstream Projects](https://img.shields.io/badge/Upstream%20Projects-7%2B-21262D?style=flat-square&labelColor=161B22&logo=github&logoColor=E8C547)](https://github.com/Harsh23Kashyap?tab=repositories&q=&type=source)
+[![Open Source](https://img.shields.io/badge/Open%20Source-RAG%20%26%20Agent%20Systems-21262D?style=flat-square&labelColor=161B22&logo=github&logoColor=E8C547)](https://github.com/Harsh23Kashyap)
+[![Upstream Projects](https://img.shields.io/badge/Upstream%20Projects-8%2B-21262D?style=flat-square&labelColor=161B22&logo=github&logoColor=E8C547)](https://github.com/Harsh23Kashyap?tab=repositories&q=&type=source)
 [![Repositories](https://img.shields.io/badge/Repositories-72-21262D?style=flat-square&labelColor=161B22&logo=github&logoColor=E8C547)](https://github.com/Harsh23Kashyap?tab=repositories)
 
 </div>
 
 | Track | Direction |
 | --- | --- |
-| **RAG infra** | Going deeper into `infiniflow/ragflow` — agent inputs, deepdoc parsing, GMM clustering, retrieval quality edge cases. Likely moving toward plugin/plugin-API surface next. |
-| **Agent frameworks** | Active across `langgenius/dify`, `dify-sandbox`, `dify-official-plugins` — seccomp hardening, plugin auth flows, model-provider plumbing. Next: cost-tracing hooks and tenant-isolation edges. |
-| **LLM observability** | Contributions and forks in `langfuse`, `neatlogs`. Watching where OTel-native LLM tracing goes next — likely landing eval/feedback primitives. |
-| **Vector & AI-native DBs** | Forking and reading `qdrant-client`, `infinity`, `ragas`. Ragas-style evaluation harnesses for CustomNerd's research outputs. |
-| **Protocols & mobility** | Shipping into `named-data/ndnd` (security/CRL) and other protocol work. 5G protocol testing at Apple keeps me close to ASN.1/UICC pain. |
-| **Research** | CustomNerd paper in progress (NYU, Prof. Dennis Shasha) · Job-Matching-Agentic platform maturing toward WSU submission · Odyssey cost-model work with Edinburgh continuing <!--· ScientficPerplexity (UBC, Prof. L.A.K.S., 3-4yr commitment through 2027)--> |
+| **RAG infra** | Working inside `infiniflow/ragflow` on agent inputs, DeepDoc parsing, clustering, and retrieval-quality edge cases. |
+| **Agent frameworks** | Active across `langgenius/dify`, `dify-sandbox`, and `dify-official-plugins`, mostly around sandboxing, plugin auth, and model-provider plumbing. |
+| **LLM observability** | 20+ merged PRs across `langfuse/langfuse`, `neatlogs/neatlogs`, `neatlogs/neatlogs-go`, and `neatlogs/neatlogs-typescript` — endpoint validation, transport replay guards, SDK init consistency, span routing, and provider isolation. Interested in OTel-native tracing, evals, and feedback loops. |
+| **Vector & AI-native DBs** | Reading and contributing around `qdrant-client`, `infinity`, and `ragas`, especially evaluation harnesses for CustomNerd outputs. |
+| **Protocols & mobility** | Contributing to `named-data/ndnd` security/CRL work. Prior Apple work kept me close to 5G protocol testing and ASN.1/UICC issues. |
+| **Research** | CustomNerd accepted at MDPI Electronics · JobMatch in preparation for JAAMAS · Odyssey cost-model work with Edinburgh · ScientficPerplexity with UBC |
 
-<sub>100+ merged PRs achieved in 2026; on pace for 150+ by EOY. 2,500+ annual contributions. Always open to upstream issues, RFCs, and design reviews.</sub>
+<sub>Focused on RAG systems, agent frameworks, observability, protocol tooling, and practical reliability work in open-source codebases.</sub>
 
 ---
 
@@ -75,7 +76,8 @@
 
 | | Company | Role | Period |
 | :---: | --- | --- | --- |
-| <img src="https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/master/assets/logos/apple.png" height="40" alt="Apple" /> | **Apple** | Software Engineer 2 | Dec 2023 – Present |
+| <img src="https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/master/assets/logos/amazon.svg" height="40" alt="Amazon" /> | **Amazon** | Software Development Engineer II | Jul 2026 – Present |
+| <img src="https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/master/assets/logos/apple.png" height="40" alt="Apple" /> | **Apple** | Software Engineer II | Dec 2023 – Jun 2026 |
 | <img src="https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/master/assets/logos/paypal.png" height="40" alt="PayPal" /> | **PayPal** | Software Engineer | Jul 2023 – Oct 2023 |
 
 <details>
@@ -103,11 +105,17 @@
 | <img src="https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/master/assets/logos/ucla.png" height="44" alt="UCLA" /> | **University of California, Los Angeles** | NDN (Named Data Networking) · Ownly |
 | <img src="https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/master/assets/logos/edinburgh.png" height="44" alt="Edinburgh" /> | **University of Edinburgh** | Odyssey / DataFusion cost model (Prof. Boris Grot) |
 | <img src="https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/master/assets/logos/thapar.png" height="44" alt="Thapar" /> | **Thapar Institute** | HS Pannu — demosaicing research |
-<!--
 | <img src="https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/master/assets/logos/ubc.png" height="44" alt="UBC" /> | **University of British Columbia** | ScientficPerplexity — scientific literature query system (Prof. L.A.K.S.) |
--->
 
 </details>
+
+### Publications
+
+| Work | Venue | Status |
+| --- | --- | --- |
+| **CustomNerd: A Framework and Tool for Fast Deployment of Production-Ready Expertise-Based QA Systems** | MDPI Electronics, 2026 | First author, accepted |
+| **JobMatch: An Agentic Multi-Role Platform for Explainable Job-Candidate Matching** | JAAMAS | Co-first author, in preparation |
+| **InvestorNerd and NewsNerd** | NYU, Prof. Dennis Shasha | Contributing author, in preparation |
 
 ---
 
@@ -214,26 +222,8 @@
 </a>
 </td>
 
-<!-- Ragas cell commented out — 0 merged PRs to upstream as of 2026-07-28
-<td align="center" width="12.5%">
-<a href="https://github.com/Harsh23Kashyap/ragas">
-<img src="https://cdn.simpleicons.org/python/E8C547" height="32" alt="Ragas" /><br />
-<sub><b>Ragas</b></sub><br />
-<sub>LLM evals</sub>
-</a>
-</td>
--->
 </tr>
 <tr>
-<!-- Qdrant cell commented out — 0 merged PRs to upstream as of 2026-07-28
-<td align="center" width="12.5%">
-<a href="https://github.com/Harsh23Kashyap/qdrant-client">
-<img src="https://cdn.simpleicons.org/python/E8C547" height="32" alt="Qdrant" /><br />
-<sub><b>Qdrant</b></sub><br />
-<sub>Vector search</sub>
-</a>
-</td>
--->
 <td align="center" width="12.5%">
 <a href="https://github.com/Harsh23Kashyap/infinity">
 <img src="https://cdn.simpleicons.org/cplusplus/E8C547" height="32" alt="Infinity" /><br />
@@ -241,24 +231,6 @@
 <sub>AI-native DB</sub>
 </a>
 </td>
-<!-- Nao cell commented out — 0 merged PRs to upstream as of 2026-07-28
-<td align="center" width="12.5%">
-<a href="https://github.com/Harsh23Kashyap/nao">
-<img src="https://cdn.simpleicons.org/typescript/E8C547" height="32" alt="Nao" /><br />
-<sub><b>Nao</b></sub><br />
-<sub>Analytics agent</sub>
-</a>
-</td>
--->
-<!-- Neatlogs cell commented out — 0 merged PRs to upstream as of 2026-07-28
-<td align="center" width="12.5%">
-<a href="https://github.com/Harsh23Kashyap/neatlogs">
-<img src="https://cdn.simpleicons.org/python/E8C547" height="32" alt="Neatlogs" /><br />
-<sub><b>Neatlogs</b></sub><br />
-<sub>Agent traces</sub>
-</a>
-</td>
--->
 <td align="center" width="12.5%">
 <a href="https://github.com/Harsh23Kashyap/ndnd">
 <img src="https://cdn.simpleicons.org/go/E8C547" height="32" alt="ndnd" /><br />
@@ -284,15 +256,13 @@
 <sub>LLM evals & observability</sub>
 </a>
 </td>
-<!-- Neatlogs cell commented out — 0 merged PRs to upstream as of 2026-07-28
 <td align="center" width="20%">
-<a href="https://github.com/Harsh23Kashyap/neatlogs">
-<img src="https://cdn.simpleicons.org/python/E8C547" height="40" alt="Neatlogs" /><br />
+<a href="https://github.com/harshk-neatlogs/neatlogs">
+<img src="https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/master/assets/logos/neatlogs.png" height="40" alt="Neatlogs" /><br />
 <sub><b>Neatlogs</b></sub><br />
-<sub>AI agent trace debugging</sub>
+<sub>Python · Go · TypeScript SDKs</sub>
 </a>
 </td>
--->
 </tr>
 </table>
 
@@ -313,7 +283,7 @@
 
 **LeetCode**
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/Harsh23Kashyap?theme=dark&font=Noto%20Sans&extension=heatmap)](https://leetcode.com/Harsh23Kashyap/)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/Harsh23Kashyap?theme=dark&font=Noto%20Sans&extension=heatmap)](https://leetcode.com/u/Harsh23Kashyap/)
 
 </td>
 </tr>
@@ -338,7 +308,7 @@
 
 <div align="center">
 
-[![OSS PRs 2026](https://img.shields.io/badge/OSS%20PRs%202026-100%2B%20Merged-21262D?style=flat-square&labelColor=161B22&logo=github&logoColor=E8C547)](#where-im-heading)
+[![Open Source](https://img.shields.io/badge/Open%20Source-RAG%20%26%20Agent%20Systems-21262D?style=flat-square&labelColor=161B22&logo=github&logoColor=E8C547)](#where-im-heading)
 [![Contributions YTD](https://img.shields.io/badge/Contributions%20(2025--26)-1%2C895-21262D?style=flat-square&labelColor=161B22&logo=github&logoColor=E8C547)](https://github.com/Harsh23Kashyap)
 [![IICC](https://img.shields.io/badge/IICC%20(AICTE)-89th%20%2F%20100K-21262D?style=flat-square&labelColor=161B22)](https://harshkashyapportfolio.netlify.app/)
 [![Innovation Deck](https://img.shields.io/badge/Apple%20Innovation%20Deck-350%2B%20Submissions-21262D?style=flat-square&labelColor=161B22)](https://harshkashyapportfolio.netlify.app/)
@@ -375,8 +345,8 @@
 
 ## Certificates & Resume
 
-[![Resume](https://img.shields.io/badge/Resume-PDF-21262D?style=flat-square&labelColor=161B22&logo=adobeacrobatreader&logoColor=E8C547)](https://github.com/Harsh23Kashyap/Portfolio/blob/main/assets/documents/Harsh_Kashyap_Resume.pdf)
-[![Certificates](https://img.shields.io/badge/Certificates-Google%20Drive-21262D?style=flat-square&labelColor=161B22&logo=googledrive&logoColor=E8C547)](https://drive.google.com/drive/u/0/folders/1raz8Z0f7Db-AncWtucGtYBlHlOIIiFNk)
+[![Resume](https://img.shields.io/badge/Resume-PDF-21262D?style=flat-square&labelColor=161B22&logo=adobeacrobatreader&logoColor=E8C547)](https://drive.google.com/file/d/1c1n82yTTpVEhwdatPGsV16rYu6aLfBkV/view)
+[![Certificates](https://img.shields.io/badge/Certificates-Google%20Drive-21262D?style=flat-square&labelColor=161B22&logo=googledrive&logoColor=E8C547)](https://drive.google.com/drive/u/0/folders/1YMmqib9r3241YdXVywE02BsBgXkK0vS3)
 
 ---
 
