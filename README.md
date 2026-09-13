@@ -26,7 +26,6 @@
 - **Previously Software Engineer II at Apple**: macOS tooling for engineering teams, 5G protocol testing, LLM triage automation, and multi-agent telecom systems
 - **Impact**: 80% adoption on internal tools · 40% faster incident resolution · $720K annual savings
 - **Open-source engineering**: retrieval correctness, agent runtime hardening, plugin triggers, sandbox safety, observability, and protocol tooling across RAGFlow, Dify, Langfuse, NDN, Infinity, CustomNerd, and related systems
-- **Open-source footprint** — **79** public repos · **140+ merged PRs** across `infiniflow/ragflow`, `langgenius/dify`, `langgenius/dify-sandbox`, `langgenius/dify-official-plugins`, `langfuse/langfuse`, `neatlogs/neatlogs`, `neatlogs/neatlogs-go`, `neatlogs/neatlogs-typescript`, `named-data/ndnd`, `deepset-ai/haystack`, `Harsh23Kashyap/infinity`, `Harsh23Kashyap/customnerd`, `Harsh23Kashyap/Machine-Learning`, `Harsh23Kashyap/skills`, and forks of `AmaanIlahi/OperationsNerd` & `Taranum01/HallucinationNerd` · **2,241 contributions** in the last year
 - **B.E. CSE**, Thapar Institute — CGPA **9.71**, TIET Merit Scholarship (top **0.5%**)
 - **Community reach** — active LinkedIn and Topmate mentoring presence · 1,723 LeetCode problems (568 easy / 916 medium / 239 hard; contest rating around 1,693) · 450+ Topmate sessions · 4.3/5 public rating
 - Earlier full-time work at Apple and PayPal; internships at Apple, Tata 1mg, Cisco, Licious, and YASH Technologies
@@ -38,7 +37,7 @@
 
 | Focus | Details |
 | --- | --- |
-| **Building** | Unified Compliance Intelligence for Amazon Marketplace |
+| **Building** | Large-scale compliance infrastructure |
 | **Open-source work** | Retrieval correctness · agent runtime hardening · plugin triggers · sandbox safety · observability · protocol tooling |
 | **Exploring** | RAGFlow · LangGraph · Dify · Infinity · pydantic-ai · OpenHands · llama_index · fastmcp · together-python · openinference · Phoenix · Ragas · Qdrant |
 | **Research** | CustomNerd framework (NYU, accepted at MDPI Electronics) · JobMatch (JAAMAS, in preparation) · Odyssey / DataFusion cost modelling (Edinburgh) · ScientficPerplexity (UBC) |
@@ -57,14 +56,22 @@
 
 </div>
 
+### Open Source
+
 | Track | Direction |
 | --- | --- |
-| **RAG infra** | Working inside `infiniflow/ragflow` on agent inputs, DeepDoc parsing, clustering, and retrieval-quality edge cases. |
-| **Agent frameworks** | Active across `langgenius/dify`, `dify-sandbox`, and `dify-official-plugins`, mostly around sandboxing, plugin auth, and model-provider plumbing. |
-| **LLM observability** | 20+ merged PRs across `langfuse/langfuse`, `neatlogs/neatlogs`, `neatlogs/neatlogs-go`, and `neatlogs/neatlogs-typescript` — endpoint validation, transport replay guards, SDK init consistency, span routing, and provider isolation. Interested in OTel-native tracing, evals, and feedback loops. |
-| **Vector & AI-native DBs** | Reading and contributing around `qdrant-client`, `infinity`, and `ragas`, especially evaluation harnesses for CustomNerd outputs. |
-| **Protocols & mobility** | Contributing to `named-data/ndnd` security/CRL work. Prior Apple work kept me close to 5G protocol testing and ASN.1/UICC issues. |
-| **Research** | CustomNerd accepted at MDPI Electronics · JobMatch in preparation for JAAMAS · Odyssey cost-model work with Edinburgh · ScientficPerplexity with UBC |
+| **RAG infra** | `infiniflow/ragflow` — agent inputs, DeepDoc parsing, clustering, and retrieval-quality edge cases. |
+| **Agent frameworks** | `langgenius/dify`, `dify-sandbox`, and `dify-official-plugins` — sandboxing, plugin auth, and model-provider plumbing. |
+| **LLM observability** | `langfuse/langfuse` and the `neatlogs` SDKs — endpoint validation, transport replay guards, SDK init consistency, span routing, and provider isolation. Interested in OTel-native tracing, evals, and feedback loops. |
+| **Vector & AI-native DBs** | `qdrant-client`, `infinity`, and `ragas` — evaluation harnesses for CustomNerd outputs. |
+| **Protocols & mobility** | `named-data/ndnd` security/CRL work · background in 5G protocol testing. |
+
+### Research
+
+- **CustomNerd** — accepted at MDPI Electronics
+- **JobMatch** — in preparation for JAAMAS
+- **Odyssey** — cost-model work with the University of Edinburgh
+- **ScientficPerplexity** — with UBC
 
 <sub>Focused on RAG systems, agent frameworks, observability, protocol tooling, and practical reliability work in open-source codebases.</sub>
 
@@ -387,4 +394,5 @@ Cricket · F1 · Treks · Gym · Cooking · Reading
 </td>
 </tr>
 </table>
+
 
