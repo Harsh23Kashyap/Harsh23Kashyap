@@ -40,7 +40,7 @@
 | --- | --- |
 | **Building** | Unified Compliance Intelligence for Amazon Marketplace |
 | **Open-source work** | Retrieval correctness · agent runtime hardening · plugin triggers · sandbox safety · observability · protocol tooling |
-| **Exploring** | RAGFlow · LangGraph · Dify · Infinity · Ragas · Qdrant |
+| **Exploring** | RAGFlow · LangGraph · Dify · Infinity · pydantic-ai · OpenHands · llama_index · fastmcp · Phoenix · Ragas · Qdrant |
 | **Research** | CustomNerd framework (NYU, accepted at MDPI Electronics) · JobMatch (JAAMAS, in preparation) · Odyssey / DataFusion cost modelling (Edinburgh) · ScientficPerplexity (UBC) |
 
 ---
@@ -53,7 +53,7 @@
 
 [![Open Source](https://img.shields.io/badge/Open%20Source-RAG%20%26%20Agent%20Systems-21262D?style=flat-square&labelColor=161B22&logo=github&logoColor=E8C547)](https://github.com/Harsh23Kashyap)
 [![Upstream Projects](https://img.shields.io/badge/Upstream%20Projects-8%2B-21262D?style=flat-square&labelColor=161B22&logo=github&logoColor=E8C547)](https://github.com/Harsh23Kashyap?tab=repositories&q=&type=source)
-[![Repositories](https://img.shields.io/badge/Repositories-72-21262D?style=flat-square&labelColor=161B22&logo=github&logoColor=E8C547)](https://github.com/Harsh23Kashyap?tab=repositories)
+[![Repositories](https://img.shields.io/badge/Repositories-78-21262D?style=flat-square&labelColor=161B22&logo=github&logoColor=E8C547)](https://github.com/Harsh23Kashyap?tab=repositories)
 
 </div>
 
