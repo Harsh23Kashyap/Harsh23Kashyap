@@ -10,7 +10,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-21262D?style=flat-square&labelColor=161B22&logo=netlify&logoColor=E8C547)](https://harshkashyapportfolio.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-21262D?style=flat-square&labelColor=161B22&logo=linkedin&logoColor=E8C547)](https://www.linkedin.com/in/harsh-kashyap/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-1717%20Solved-21262D?style=flat-square&labelColor=161B22&logo=leetcode&logoColor=E8C547)](https://leetcode.com/u/Harsh23Kashyap/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-1723%20Solved-21262D?style=flat-square&labelColor=161B22&logo=leetcode&logoColor=E8C547)](https://leetcode.com/u/Harsh23Kashyap/)
 [![Topmate](https://img.shields.io/badge/Topmate-450%2B%20Sessions-21262D?style=flat-square&labelColor=161B22&logo=googlemeet&logoColor=E8C547)](https://topmate.io/harsh_kashyap)
 [![Email](https://img.shields.io/badge/Email-Contact-21262D?style=flat-square&labelColor=161B22&logo=gmail&logoColor=E8C547)](mailto:harsh.kashyap2001@gmail.com)
 
@@ -26,9 +26,9 @@
 - **Previously Software Engineer II at Apple**: macOS tooling for engineering teams, 5G protocol testing, LLM triage automation, and multi-agent telecom systems
 - **Impact**: 80% adoption on internal tools · 40% faster incident resolution · $720K annual savings
 - **Open-source engineering**: retrieval correctness, agent runtime hardening, plugin triggers, sandbox safety, observability, and protocol tooling across RAGFlow, Dify, Langfuse, NDN, Infinity, CustomNerd, and related systems
-- **Open-source footprint** — **70+** public repos · **140+ merged PRs** across `infiniflow/ragflow`, `langgenius/dify`, `langgenius/dify-sandbox`, `langgenius/dify-official-plugins`, `langfuse/langfuse`, `neatlogs/neatlogs`, `neatlogs/neatlogs-go`, `neatlogs/neatlogs-typescript`, `named-data/ndnd`, `deepset-ai/haystack`, `Harsh23Kashyap/infinity`, `Harsh23Kashyap/customnerd`, `Harsh23Kashyap/Machine-Learning`, `Harsh23Kashyap/skills`, and forks of `AmaanIlahi/OperationsNerd` & `Taranum01/HallucinationNerd` · **2,241 contributions** in the last year
+- **Open-source footprint** — **79** public repos · **140+ merged PRs** across `infiniflow/ragflow`, `langgenius/dify`, `langgenius/dify-sandbox`, `langgenius/dify-official-plugins`, `langfuse/langfuse`, `neatlogs/neatlogs`, `neatlogs/neatlogs-go`, `neatlogs/neatlogs-typescript`, `named-data/ndnd`, `deepset-ai/haystack`, `Harsh23Kashyap/infinity`, `Harsh23Kashyap/customnerd`, `Harsh23Kashyap/Machine-Learning`, `Harsh23Kashyap/skills`, and forks of `AmaanIlahi/OperationsNerd` & `Taranum01/HallucinationNerd` · **2,241 contributions** in the last year
 - **B.E. CSE**, Thapar Institute — CGPA **9.71**, TIET Merit Scholarship (top **0.5%**)
-- **Community reach** — active LinkedIn and Topmate mentoring presence · 1,717 LeetCode problems (563 easy / 915 medium / 239 hard; contest rating around 1,693) · 450+ Topmate sessions · 4.3/5 public rating
+- **Community reach** — active LinkedIn and Topmate mentoring presence · 1,723 LeetCode problems (568 easy / 916 medium / 239 hard; contest rating around 1,693) · 450+ Topmate sessions · 4.3/5 public rating
 - Earlier full-time work at Apple and PayPal; internships at Apple, Tata 1mg, Cisco, Licious, and YASH Technologies
 - Research with NYU, WSU, UCLA, University of Edinburgh, UBC, and Thapar
 
@@ -40,7 +40,7 @@
 | --- | --- |
 | **Building** | Unified Compliance Intelligence for Amazon Marketplace |
 | **Open-source work** | Retrieval correctness · agent runtime hardening · plugin triggers · sandbox safety · observability · protocol tooling |
-| **Exploring** | RAGFlow · LangGraph · Dify · Infinity · pydantic-ai · OpenHands · llama_index · fastmcp · Phoenix · Ragas · Qdrant |
+| **Exploring** | RAGFlow · LangGraph · Dify · Infinity · pydantic-ai · OpenHands · llama_index · fastmcp · together-python · openinference · Phoenix · Ragas · Qdrant |
 | **Research** | CustomNerd framework (NYU, accepted at MDPI Electronics) · JobMatch (JAAMAS, in preparation) · Odyssey / DataFusion cost modelling (Edinburgh) · ScientficPerplexity (UBC) |
 
 ---
@@ -53,7 +53,7 @@
 
 [![Open Source](https://img.shields.io/badge/Open%20Source-RAG%20%26%20Agent%20Systems-21262D?style=flat-square&labelColor=161B22&logo=github&logoColor=E8C547)](https://github.com/Harsh23Kashyap)
 [![Upstream Projects](https://img.shields.io/badge/Upstream%20Projects-8%2B-21262D?style=flat-square&labelColor=161B22&logo=github&logoColor=E8C547)](https://github.com/Harsh23Kashyap?tab=repositories&q=&type=source)
-[![Repositories](https://img.shields.io/badge/Repositories-78-21262D?style=flat-square&labelColor=161B22&logo=github&logoColor=E8C547)](https://github.com/Harsh23Kashyap?tab=repositories)
+[![Repositories](https://img.shields.io/badge/Repositories-79-21262D?style=flat-square&labelColor=161B22&logo=github&logoColor=E8C547)](https://github.com/Harsh23Kashyap?tab=repositories)
 
 </div>
 
@@ -239,8 +239,18 @@
 </a>
 </td>
 <td align="center" width="12.5%">
+<a href="https://github.com/Harsh23Kashyap/fastmcp">
+<img src="https://cdn.simpleicons.org/modelcontextprotocol/E8C547" height="32" alt="FastMCP" /><br />
+<sub><b>FastMCP</b></sub><br />
+<sub>MCP server tooling</sub>
+</a>
 </td>
 <td align="center" width="12.5%">
+<a href="https://github.com/Harsh23Kashyap/together-python">
+<img src="https://cdn.simpleicons.org/python/E8C547" height="32" alt="Together Python" /><br />
+<sub><b>Together Python</b></sub><br />
+<sub>LLM SDK fixes</sub>
+</a>
 </td>
 </tr>
 </table>
@@ -261,6 +271,13 @@
 <img src="https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/master/assets/logos/neatlogs.png" height="40" alt="Neatlogs" /><br />
 <sub><b>Neatlogs</b></sub><br />
 <sub>Python · Go · TypeScript SDKs</sub>
+</a>
+</td>
+<td align="center" width="20%">
+<a href="https://github.com/Harsh23Kashyap/openinference">
+<img src="https://cdn.simpleicons.org/opentelemetry/E8C547" height="40" alt="OpenInference" /><br />
+<sub><b>OpenInference</b></sub><br />
+<sub>Open LLM tracing</sub>
 </a>
 </td>
 </tr>
@@ -370,3 +387,4 @@ Cricket · F1 · Treks · Gym · Cooking · Reading
 </td>
 </tr>
 </table>
+
