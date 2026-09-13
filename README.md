@@ -22,14 +22,13 @@
 
 <img align="right" height="220" width="330" alt="Coding" src="https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/master/coding.gif" />
 
-- **Software Development Engineer II at Amazon**: working on Unified Compliance Intelligence for Marketplace using Bedrock, Claude/Sonnet, Java, Coral, and ECS Fargate
-- **Previously Software Engineer II at Apple**: macOS tooling for engineering teams, 5G protocol testing, LLM triage automation, and multi-agent telecom systems
-- **Impact**: 80% adoption on internal tools · 40% faster incident resolution · $720K annual savings
-- **Open-source engineering**: retrieval correctness, agent runtime hardening, plugin triggers, sandbox safety, observability, and protocol tooling across RAGFlow, Dify, Langfuse, NDN, Infinity, CustomNerd, and related systems
-- **B.E. CSE**, Thapar Institute — CGPA **9.71**, TIET Merit Scholarship (top **0.5%**)
-- **Community reach** — active LinkedIn and Topmate mentoring presence · 1,723 LeetCode problems (568 easy / 916 medium / 239 hard; contest rating around 1,693) · 450+ Topmate sessions · 4.3/5 public rating
-- Earlier full-time work at Apple and PayPal; internships at Apple, Tata 1mg, Cisco, Licious, and YASH Technologies
-- Research with NYU, WSU, UCLA, University of Edinburgh, UBC, and Thapar
+- SDE II at Amazon, working on large-scale compliance infrastructure
+- Previously SWE II at Apple: macOS tooling, 5G protocol testing, LLM triage automation - 80% adoption on internal tools, 40% faster incident resolution, $720K annual savings
+- Earlier: PayPal full-time; internships at Apple, Tata 1mg, Cisco, Licious, YASH Technologies
+- Open-source engineering across RAG and agent infra: retrieval correctness, agent runtime hardening, plugin triggers, sandbox safety, observability, protocol tooling - mostly in RAGFlow, Dify, Langfuse, NDN, Infinity, CustomNerd
+- Research with NYU, WSU, UCLA, UBC, Edinburgh - CustomNerd accepted at MDPI Electronics, JobMatch in preparation for JAAMAS
+- B.E. CSE, Thapar Institute - CGPA 9.71, top 0.5% merit scholarship
+- 1,723 LeetCode (568 easy / 916 medium / 239 hard, rating ~1,693) · 450+ Topmate sessions at 4.3/5
 
 ---
 
