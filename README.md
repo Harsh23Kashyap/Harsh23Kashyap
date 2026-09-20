@@ -29,7 +29,7 @@ I work on backend systems and large-scale compliance infrastructure. Outside wor
 ## A few numbers
 
 - 1,723 LeetCode problems solved
-- 140+ merged pull requests
+- 158 merged pull requests
 - 450+ mentoring sessions
 - B.E. Computer Science, Thapar Institute, CGPA 9.71
 
