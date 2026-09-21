@@ -6,7 +6,6 @@ I work on backend systems and large-scale compliance infrastructure. Outside wor
 
 ## Current work
 
-- Building [Neatlogs](https://github.com/Harsh23Kashyap/neatlogs), an observability and debugging platform for AI agents
 - Contributing fixes across RAGFlow, Dify, LangGraph, Langfuse, OpenInference, and related projects
 - Working on retrieval quality, agent runtime safety, SDK consistency, tracing, and evaluation
 - Researching practical RAG systems with collaborators at NYU and other universities
@@ -17,7 +16,6 @@ I work on backend systems and large-scale compliance infrastructure. Outside wor
 | --- | --- | --- |
 | RAG | [RAGFlow](https://github.com/Harsh23Kashyap/ragflow) | Retrieval behavior, parsing, clustering, and agent inputs |
 | Agent frameworks | [Dify](https://github.com/Harsh23Kashyap/dify), [LangGraph](https://github.com/Harsh23Kashyap/langgraph) | Sandbox safety, plugins, model integrations, and runtime behavior |
-| Observability | [Neatlogs](https://github.com/Harsh23Kashyap/neatlogs), [Langfuse](https://github.com/Harsh23Kashyap/langfuse), [OpenInference](https://github.com/Harsh23Kashyap/openinference) | Tracing, SDK behavior, endpoint checks, and provider isolation |
 | Protocols | [ndnd](https://github.com/Harsh23Kashyap/ndnd) | Security and CRL work in a Go implementation of Named Data Networking |
 
 ## Research
