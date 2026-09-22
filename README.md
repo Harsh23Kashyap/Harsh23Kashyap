@@ -18,16 +18,6 @@ I work on backend systems and large-scale compliance infrastructure. Outside wor
 | Agents and tooling | [OpenHands](https://github.com/Harsh23Kashyap/OpenHands), [OpenInference](https://github.com/Harsh23Kashyap/openinference), [Phoenix](https://github.com/Harsh23Kashyap/phoenix), [FastMCP](https://github.com/Harsh23Kashyap/fastmcp) | Runtime safety, tracing, evaluations, and tool protocols |
 | Protocols | [ndnd](https://github.com/Harsh23Kashyap/ndnd) | Security and CRL work in a Go implementation of Named Data Networking |
 
-## Latest merged pull requests
-
-- [Haystack #12821](https://github.com/deepset-ai/haystack/pull/12821) - exclude escaping symlinks from skill manifests
-- [Haystack #12764](https://github.com/deepset-ai/haystack/pull/12764) - accept empty JSON schemas
-- [Haystack #12735](https://github.com/deepset-ai/haystack/pull/12735) - preserve generator error fields
-- [RAGFlow #19883](https://github.com/infiniflow/ragflow/pull/19883) - validate memory-search numeric filters
-- [HallucinationNerd #8](https://github.com/Taranum01/HallucinationNerd/pull/8) - retry throttled citation requests
-- [Phoenix #16227](https://github.com/Arize-ai/phoenix/pull/16227) - validate initial evaluation request rate
-- [OpenHands #17486](https://github.com/OpenHands/OpenHands/pull/17486) - query Forgejo for PR and issue lists
-
 ## Research
 
 - [CustomNerd](https://www.mdpi.com/2079-9292/15/14/3041): first author, published in MDPI *Electronics*
