@@ -6,7 +6,7 @@ I work on backend systems and large-scale compliance infrastructure. Outside wor
 
 ## Current work
 
-- Contributing fixes across RAGFlow, Dify, LangGraph, Langfuse, OpenInference, and related projects
+- Contributing fixes across RAGFlow, Haystack, OpenHands, OpenInference, Phoenix, LlamaIndex, FastMCP, and ndnd
 - Working on retrieval quality, agent runtime safety, SDK consistency, tracing, and evaluation
 - Researching practical RAG systems with collaborators at NYU and other universities
 
@@ -14,13 +14,26 @@ I work on backend systems and large-scale compliance infrastructure. Outside wor
 
 | Area | Repositories | What I work on |
 | --- | --- | --- |
-| RAG | [RAGFlow](https://github.com/Harsh23Kashyap/ragflow) | Retrieval behavior, parsing, clustering, and agent inputs |
-| Agent frameworks | [Dify](https://github.com/Harsh23Kashyap/dify), [LangGraph](https://github.com/Harsh23Kashyap/langgraph) | Sandbox safety, plugins, model integrations, and runtime behavior |
+| RAG and retrieval | [RAGFlow](https://github.com/Harsh23Kashyap/ragflow), [Haystack](https://github.com/Harsh23Kashyap/haystack), [LlamaIndex](https://github.com/Harsh23Kashyap/llama_index) | Retrieval behavior, parsing, validation, and memory |
+| Agents and tooling | [OpenHands](https://github.com/Harsh23Kashyap/OpenHands), [OpenInference](https://github.com/Harsh23Kashyap/openinference), [Phoenix](https://github.com/Harsh23Kashyap/phoenix), [FastMCP](https://github.com/Harsh23Kashyap/fastmcp) | Runtime safety, tracing, evaluations, and tool protocols |
 | Protocols | [ndnd](https://github.com/Harsh23Kashyap/ndnd) | Security and CRL work in a Go implementation of Named Data Networking |
+
+## Latest merged pull requests
+
+- [Haystack #12821](https://github.com/deepset-ai/haystack/pull/12821) - exclude escaping symlinks from skill manifests
+- [Haystack #12764](https://github.com/deepset-ai/haystack/pull/12764) - accept empty JSON schemas
+- [Haystack #12735](https://github.com/deepset-ai/haystack/pull/12735) - preserve generator error fields
+- [RAGFlow #19883](https://github.com/infiniflow/ragflow/pull/19883) - validate memory-search numeric filters
+- [HallucinationNerd #8](https://github.com/Taranum01/HallucinationNerd/pull/8) - retry throttled citation requests
+- [Phoenix #16227](https://github.com/Arize-ai/phoenix/pull/16227) - validate initial evaluation request rate
+- [OpenHands #17486](https://github.com/OpenHands/OpenHands/pull/17486) - query Forgejo for PR and issue lists
 
 ## Research
 
-- CustomNerd: first author, accepted at MDPI Electronics
+- [CustomNerd](https://www.mdpi.com/2079-9292/15/14/3041): first author, published in MDPI *Electronics*
+- [InvestorNerd](https://arxiv.org/abs/2609.24658): published on arXiv
+- [HallucinationNerd](https://github.com/Harsh23Kashyap/HallucinationNerd): submitted to MDPI *Information*
+- NewsNerd: active research on retrieval quality and news synthesis
 - JobMatch: co-first author, in preparation for JAAMAS
 - Odyssey: cost-model work with the University of Edinburgh
 
