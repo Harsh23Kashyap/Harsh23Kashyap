@@ -25,7 +25,7 @@
 - SDE II at Amazon, working on large-scale compliance infrastructure
 - Previously SWE II at Apple: macOS tooling, 5G protocol testing, LLM triage automation - 80% adoption on internal tools, 40% faster incident resolution, $720K annual savings
 - Earlier: PayPal full-time; internships at Apple, Tata 1mg, Cisco, Licious, YASH Technologies
-- Open-source engineering across RAG and agent infra: retrieval correctness, agent runtime hardening, plugin triggers, sandbox safety, observability, protocol tooling - 180 merged PRs, mostly in RAGFlow, Haystack, LlamaIndex, Dify, Langfuse, OpenInference, Phoenix, OpenHands, FastMCP, ndnd, Infinity, CustomNerd
+- Open-source engineering across RAG and agent infra: retrieval correctness, agent runtime hardening, plugin triggers, sandbox safety, observability, protocol tooling - 182 merged PRs, mostly in RAGFlow, Haystack, LlamaIndex, Dify, Langfuse, OpenInference, Phoenix, OpenHands, FastMCP, ndnd, Infinity, CustomNerd
 - Research with NYU, WSU, UCLA, UBC, Edinburgh - CustomNerd published at MDPI Electronics, InvestorNerd published on arXiv, HallucinationNerd submitted to MDPI Information, JobMatch in preparation for JAAMAS
 - B.E. CSE, Thapar Institute - CGPA 9.71, top 0.5% merit scholarship
 - 1,723 LeetCode (568 easy / 916 medium / 239 hard, rating ~1,693) · 450+ Topmate sessions at 4.3/5
@@ -263,7 +263,7 @@
 <a href="https://github.com/Harsh23Kashyap/fastmcp">
 <img src="https://cdn.simpleicons.org/modelcontextprotocol/E8C547" height="32" alt="FastMCP" /><br />
 <sub><b>FastMCP</b></sub><br />
-<sub>MCP server tooling</sub>
+<sub>MCP tooling · cache validation</sub>
 </a>
 </td>
 <td align="center" width="12.5%">
@@ -305,7 +305,7 @@
 <a href="https://github.com/Harsh23Kashyap/openinference">
 <img src="https://cdn.simpleicons.org/opentelemetry/E8C547" height="40" alt="OpenInference" /><br />
 <sub><b>OpenInference</b></sub><br />
-<sub>LLM tracing · 3 merged fixes</sub>
+<sub>LLM tracing · 4 merged fixes</sub>
 </a>
 </td>
 <td align="center" width="20%">
