@@ -183,9 +183,9 @@
 
 ### Built by Me
 
-CustomChat - a configurable chat app with source-backed answers, local Ollama setup and install review. v0.1.6 is on GitHub and PyPI.
+CustomChat - a configurable chat app with source-backed answers, local Ollama setup and install review. v0.1.17 is on GitHub and PyPI.
 
-[GitHub release](https://github.com/Harsh23Kashyap/customchat/releases/tag/v0.1.6) · [PyPI](https://pypi.org/project/customchat-app/0.1.6/)
+[GitHub release](https://github.com/Harsh23Kashyap/customchat/releases/tag/v0.1.17) · [PyPI](https://pypi.org/project/customchat-app/0.1.17/)
 
 <table>
 <tr>
