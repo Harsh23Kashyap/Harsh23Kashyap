@@ -309,7 +309,7 @@ CustomChat - a configurable chat app with source-backed answers, local Ollama se
 <a href="https://github.com/Harsh23Kashyap/openinference">
 <img src="https://cdn.simpleicons.org/opentelemetry/E8C547" height="40" alt="OpenInference" /><br />
 <sub><b>OpenInference</b></sub><br />
-<sub>LLM tracing · 4 merged fixes</sub>
+<sub>LLM tracing · 7 merged fixes</sub>
 </a>
 </td>
 <td align="center" width="20%">
