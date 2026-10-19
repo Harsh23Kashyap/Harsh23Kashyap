@@ -25,7 +25,7 @@
 - SDE II at Amazon, working on large-scale compliance infrastructure
 - Previously SWE II at Apple: macOS tooling, 5G protocol testing, LLM triage automation - 80% adoption on internal tools, 40% faster incident resolution, $720K annual savings
 - Earlier: PayPal full-time; internships at Apple, Tata 1mg, Cisco, Licious, YASH Technologies
-- Open-source engineering across RAG and agent infra: retrieval correctness, agent runtime hardening, plugin triggers, sandbox safety, observability, protocol tooling - 185 merged PRs, mostly in RAGFlow, Haystack, LlamaIndex, Dify, Langfuse, OpenInference, Phoenix, OpenHands, FastMCP, ndnd, Infinity, CustomNerd
+- Open-source engineering across RAG and agent infra: retrieval correctness, agent runtime hardening, plugin triggers, sandbox safety, observability, protocol tooling - 188 merged PRs, mostly in RAGFlow, Haystack, LlamaIndex, Dify, Langfuse, OpenInference, Phoenix, OpenHands, FastMCP, ndnd, Infinity, CustomNerd
 - Research with NYU, WSU, UCLA, UBC, Edinburgh - CustomNerd published at MDPI Electronics, InvestorNerd published on arXiv, HallucinationNerd accepted for publication in MDPI Information, JobMatch in preparation for JAAMAS
 - B.E. CSE, Thapar Institute - CGPA 9.71, top 0.5% merit scholarship
 - 1,724 LeetCode (569 easy / 916 medium / 239 hard, rating ~1,693) · 450+ Topmate sessions at 4.3/5
@@ -51,7 +51,7 @@
 
 [![Open Source](https://img.shields.io/badge/Open%20Source-RAG%20%26%20Agent%20Systems-21262D?style=flat-square&labelColor=161B22&logo=github&logoColor=E8C547)](https://github.com/Harsh23Kashyap)
 [![Upstream Projects](https://img.shields.io/badge/Upstream%20Projects-8%2B-21262D?style=flat-square&labelColor=161B22&logo=github&logoColor=E8C547)](https://github.com/Harsh23Kashyap?tab=repositories&q=&type=source)
-[![Repositories](https://img.shields.io/badge/Repositories-99-21262D?style=flat-square&labelColor=161B22&logo=github&logoColor=E8C547)](https://github.com/Harsh23Kashyap?tab=repositories)
+[![Repositories](https://img.shields.io/badge/Repositories-103-21262D?style=flat-square&labelColor=161B22&logo=github&logoColor=E8C547)](https://github.com/Harsh23Kashyap?tab=repositories)
 
 </div>
 
