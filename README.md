@@ -26,7 +26,7 @@
 - Previously SWE II: macOS tooling, 5G protocol testing, LLM triage automation - 80% adoption on internal tools, 40% faster incident resolution, $720K annual savings
 - Earlier: PayPal full-time; internships at Apple, Tata 1mg, Cisco, Licious, YASH Technologies
 - Open-source engineering across RAG and agent infra: retrieval correctness, agent runtime hardening, plugin triggers, sandbox safety, observability, protocol tooling - 193 merged PRs, mostly in RAGFlow, Haystack, LlamaIndex, Dify, Langfuse, OpenInference, Phoenix, OpenHands, FastMCP, ndnd, Infinity, CustomNerd
-- Research with NYU, WSU, UCLA, UBC, Edinburgh - CustomNerd published at MDPI Electronics, InvestorNerd published on arXiv, HallucinationNerd accepted for publication in MDPI Information, JobMatch in preparation for JAAMAS
+- Research with NYU, WSU, UCLA, UBC, Edinburgh - CustomNerd published at MDPI Electronics, InvestorNerd published on arXiv, HallucinationNerd published in MDPI Information, JobMatch in preparation for JAAMAS
 - B.E. CSE, Thapar Institute - CGPA 9.71, top 0.5% merit scholarship
 - 1,724 LeetCode (569 easy / 916 medium / 239 hard, rating ~1,693) · 450+ Topmate sessions at 4.3/5
 
@@ -39,7 +39,7 @@
 | **Building** | Large-scale compliance infrastructure |
 | **Open-source work** | Retrieval correctness · agent runtime hardening · plugin triggers · sandbox safety · observability · protocol tooling |
 | **Exploring** | RAGFlow · LangGraph · Dify · Infinity · pydantic-ai · OpenHands · llama_index · fastmcp · together-python · openinference · Phoenix · Ragas · Qdrant |
-| **Research** | CustomNerd (NYU, published at MDPI Electronics) · InvestorNerd (published on arXiv) · HallucinationNerd (accepted for publication in MDPI Information) · JobMatch (JAAMAS, in preparation) · Odyssey / DataFusion cost modelling (Edinburgh) · ScientficPerplexity (UBC) |
+| **Research** | CustomNerd (NYU, published at MDPI Electronics) · InvestorNerd (published on arXiv) · HallucinationNerd (published in MDPI Information) · JobMatch (JAAMAS, in preparation) · Odyssey / DataFusion cost modelling (Edinburgh) · ScientficPerplexity (UBC) |
 
 ---
 
@@ -69,7 +69,7 @@
 
 - **CustomNerd** — published at MDPI Electronics
 - **InvestorNerd** — published on arXiv
-- **HallucinationNerd** — accepted for publication in MDPI Information
+- **HallucinationNerd** — published in MDPI Information
 - **JobMatch** — in preparation for JAAMAS
 - **Odyssey** — cost-model work with the University of Edinburgh, paper on arXiv
 - **ScientficPerplexity** — with UBC
@@ -123,7 +123,7 @@
 | --- | --- | --- |
 | [**CustomNerd: A Framework and Tool for Fast Deployment of Production-Ready Expertise-Based QA Systems**](https://www.mdpi.com/2079-9292/15/14/3041) | MDPI Electronics, 2026 | First author, published |
 | [**InvestorNerd**](https://arxiv.org/abs/2609.24658) | arXiv | Published |
-| [**HallucinationNerd**](https://github.com/Harsh23Kashyap/HallucinationNerd) | MDPI Information | Accepted for publication |
+| [**HallucinationNerd**](https://www.mdpi.com/2078-2489/17/11/1053) | MDPI Information, 2026 | Published |
 | [**Odyssey: Pareto-Optimal Serverless Query Processing**](https://arxiv.org/abs/2510.24307) | arXiv, with the University of Edinburgh | Published |
 | **JobMatch: An Agentic Multi-Role Platform for Explainable Job-Candidate Matching** | JAAMAS | Co-first author, in preparation |
 | **NewsNerd** | NYU, Prof. Dennis Shasha | Active research |
