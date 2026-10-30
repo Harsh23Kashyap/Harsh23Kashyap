@@ -183,7 +183,7 @@
 
 ### Built by Me
 
-Chatify (formerly CustomChat) - a configurable chat app with source-backed answers, local Ollama setup and install review. v0.2.7 is on GitHub and PyPI.
+Chatify (formerly CustomChat) - a configurable chat app with source-backed answers, local Ollama setup and install review. Available on GitHub and PyPI.
 
 [GitHub release](https://github.com/Harsh23Kashyap/Chatify/releases/tag/v0.2.7) · [PyPI](https://pypi.org/project/chatify-app/)
 
