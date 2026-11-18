@@ -399,7 +399,7 @@ Chatify (formerly CustomChat) - a configurable chat app with source-backed answe
 
 ## Certificates & Resume
 
-[![Resume](https://img.shields.io/badge/Resume-PDF-21262D?style=flat-square&labelColor=161B22&logo=adobeacrobatreader&logoColor=E8C547)](https://drive.google.com/file/d/1c1n82yTTpVEhwdatPGsV16rYu6aLfBkV/view)
+[![Resume](https://img.shields.io/badge/Resume-PDF-21262D?style=flat-square&labelColor=161B22&logo=adobeacrobatreader&logoColor=E8C547)](https://drive.google.com/file/d/1r8anUrkVuZKbHXVmShzDgllnsaLhI6im/view)
 [![Certificates](https://img.shields.io/badge/Certificates-Google%20Drive-21262D?style=flat-square&labelColor=161B22&logo=googledrive&logoColor=E8C547)](https://drive.google.com/drive/u/0/folders/1YMmqib9r3241YdXVywE02BsBgXkK0vS3)
 
 ---
