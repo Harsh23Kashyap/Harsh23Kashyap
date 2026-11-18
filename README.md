@@ -25,8 +25,8 @@
 - SDE II at Amazon, working on large-scale compliance infrastructure
 - Previously SWE II: macOS tooling, 5G protocol testing, LLM triage automation - 80% adoption on internal tools, 40% faster incident resolution, $720K annual savings
 - Earlier: PayPal full-time; internships at Apple, Tata 1mg, Cisco, Licious, YASH Technologies
-- Open-source engineering across RAG and agent infra: retrieval correctness, agent runtime hardening, plugin triggers, sandbox safety, observability, protocol tooling - 208 merged PRs, mostly in RAGFlow, Haystack, LlamaIndex, Dify, Langfuse, OpenInference, Phoenix, OpenHands, FastMCP, ndnd, Infinity, CustomNerd
-- Research with NYU, WSU, UCLA, UBC, Edinburgh - CustomNerd published at MDPI Electronics, InvestorNerd published on arXiv, HallucinationNerd published in MDPI Information, JobMatch in preparation for JAAMAS
+- Open-source engineering across RAG and agent infra: retrieval correctness, agent runtime hardening, plugin triggers, sandbox safety, observability, protocol tooling - 230+ merged PRs, mostly in Dify, RAGFlow, OpenInference, OpenHands and Haystack
+- Research with NYU, WSU, UCLA, UBC, Edinburgh - CustomNerd published at MDPI Electronics, InvestorNerd on arXiv, HallucinationNerd published in MDPI Information, JobMatch preprint on SSRN, submitted to Applied Intelligence
 - B.E. CSE, Thapar Institute - CGPA 9.71, top 0.5% merit scholarship
 - 1,724 LeetCode (569 easy / 916 medium / 239 hard, rating ~1,693) · 450+ Topmate sessions at 4.3/5
 
@@ -39,7 +39,7 @@
 | **Building** | Large-scale compliance infrastructure |
 | **Open-source work** | Retrieval correctness · agent runtime hardening · plugin triggers · sandbox safety · observability · protocol tooling |
 | **Exploring** | RAGFlow · LangGraph · Dify · Infinity · pydantic-ai · OpenHands · llama_index · fastmcp · together-python · openinference · Phoenix · Ragas · Qdrant |
-| **Research** | CustomNerd (NYU, published at MDPI Electronics) · InvestorNerd (published on arXiv) · HallucinationNerd (published in MDPI Information) · JobMatch (JAAMAS, in preparation) · Odyssey / DataFusion cost modelling (Edinburgh) · ScientficPerplexity (UBC) |
+| **Research** | CustomNerd (NYU, published at MDPI Electronics) · InvestorNerd (arXiv preprint) · HallucinationNerd (published in MDPI Information) · JobMatch (SSRN preprint, submitted to Applied Intelligence) · Odyssey / DataFusion cost modelling (Edinburgh) · ScientificPerplexity (UBC) |
 
 ---
 
@@ -70,8 +70,8 @@
 - **CustomNerd** — published at MDPI Electronics
 - **InvestorNerd** — published on arXiv
 - **HallucinationNerd** — published in MDPI Information
-- **JobMatch** — in preparation for JAAMAS
-- **Odyssey** — cost-model work with the University of Edinburgh, paper on arXiv
+- **JobMatch** — SSRN preprint, submitted to Applied Intelligence
+- **DataFusion cost model** — research with Professor Boris Grot at the University of Edinburgh
 - **ScientficPerplexity** — with UBC
 
 <sub>Focused on RAG systems, agent frameworks, observability, protocol tooling, and practical reliability work in open-source codebases.</sub>
@@ -85,7 +85,7 @@
 | | Company | Role | Period |
 | :---: | --- | --- | --- |
 | <img src="https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/master/assets/logos/amazon.svg" height="40" alt="Amazon" /> | **Amazon** | Software Development Engineer II | Jul 2026 – Present |
-| <img src="https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/master/assets/logos/apple.png" height="40" alt="Apple" /> | **Apple** | Software Engineer II | Dec 2023 – Jun 2026 |
+| <img src="https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/master/assets/logos/apple.png" height="40" alt="Apple" /> | **Apple** | Software Engineer II | Dec 2023 – Jul 2026 |
 | <img src="https://raw.githubusercontent.com/Harsh23Kashyap/Harsh23Kashyap/master/assets/logos/paypal.png" height="40" alt="PayPal" /> | **PayPal** | Software Engineer | Jul 2023 – Oct 2023 |
 
 <details>
@@ -122,10 +122,11 @@
 | Work | Venue | Status |
 | --- | --- | --- |
 | [**CustomNerd: A Framework and Tool for Fast Deployment of Production-Ready Expertise-Based QA Systems**](https://www.mdpi.com/2079-9292/15/14/3041) | MDPI Electronics, 2026 | First author, published |
-| [**InvestorNerd**](https://arxiv.org/abs/2609.24658) | arXiv | Published |
-| [**HallucinationNerd**](https://www.mdpi.com/2078-2489/17/11/1053) | MDPI Information, 2026 | Published |
-| [**Odyssey: Pareto-Optimal Serverless Query Processing**](https://arxiv.org/abs/2510.24307) | arXiv, with the University of Edinburgh | Published |
-| **JobMatch: An Agentic Multi-Role Platform for Explainable Job-Candidate Matching** | JAAMAS | Co-first author, in preparation |
+| [**InvestorNerd**](https://arxiv.org/abs/2609.24658) | arXiv preprint, 2026 | Fourth author, preprint |
+| [**HallucinationNerd**](https://www.mdpi.com/2078-2489/17/11/1053) | MDPI Information, 2026 | Second author, published |
+| [**An Auditable, Calibrated, and Explainable Multi-Agent System for Job-Candidate Recommendation**](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=7540530) | SSRN preprint, 2026; submitted to Applied Intelligence | Co-first and corresponding author |
+| [**When Is the Expensive Method Worth It? A Content-Driven Analysis of Classical Bayer Demosaicing**](https://arxiv.org/abs/2611.20854) | arXiv preprint, 2026; submitted to Signal, Image and Video Processing | Second author |
+| **Monitoring Unplanned Construction Using Satellite Change Detection** | AIDLHCSY 2027 | Co-author, submitted |
 | **NewsNerd** | NYU, Prof. Dennis Shasha | Active research |
 
 ---
@@ -193,13 +194,10 @@ Chatify (formerly CustomChat) - a configurable chat app with source-backed answe
 
 [![Custom-Nerd](https://img.shields.io/badge/CustomNerd-NYU%20Research-21262D?style=flat-square&labelColor=161B22&logo=github&logoColor=E8C547)](https://github.com/Harsh23Kashyap/Custom-Nerd)
 [![Job-Matching-Agentic](https://img.shields.io/badge/Job--Matching--Agentic-WSU%20Research-21262D?style=flat-square&labelColor=161B22&logo=github&logoColor=E8C547)](https://github.com/Harsh23Kashyap/Job-Matching-Agentic)
-[![Odyssey](https://img.shields.io/badge/Odyssey-Edinburgh%20Research-21262D?style=flat-square&labelColor=161B22&logo=github&logoColor=E8C547)](https://github.com/Harsh23Kashyap/Odyssey)
 
 </td>
 <td width="50%" valign="top">
 
-[![daily-contribution-bot](https://img.shields.io/badge/daily--contribution--bot-Python-21262D?style=flat-square&labelColor=161B22&logo=github&logoColor=E8C547)](https://github.com/Harsh23Kashyap/daily-contribution-bot)
-[![Mailer](https://img.shields.io/badge/Mailer-Python-21262D?style=flat-square&labelColor=161B22&logo=github&logoColor=E8C547)](https://github.com/Harsh23Kashyap/Mailer)
 [![LLD](https://img.shields.io/badge/LLD-Java-21262D?style=flat-square&labelColor=161B22&logo=github&logoColor=E8C547)](https://github.com/Harsh23Kashyap/LLD)
 
 </td>
